@@ -1,0 +1,147 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Potenciales de corto alcance}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+En este trabajo de tesis, se va a trabajar con potenciales de corto alcance radiales con momento angular $l = 0$ como sistema de partida, los cuales de forna general son de la forma
+
+\begin{equation}
+	V(r) = 
+	\begin{cases}
+	V^{(i)}(r) & r < R
+	\\
+	0 & R < r
+	\end{cases} \label{PCA}
+\end{equation}
+
+donde la región $r < R$ es conocida como "región de interacción", mientras que $R$ será referido como "punto de corte". La ecuación de Schrödinger correspondiente a esta región es
+
+\begin{equation*}
+	-\frac{d^2 u^{(i)}}{dr^2} + V^{(i)}(r) u^{(i)} = E u^{(i)}
+\end{equation*} 
+
+donde $\frac{\hbar}{2m}=1$. Al ser una ecuación de segundo grado, la solución general estará dada por una combinación lineal de dos funciones linearmente independientes
+
+\begin{equation*}
+u^{(i)}(E,r) = A_i u^{(i)}_1(E,r) + B_i u_2^{(i)}(E,r)  
+\end{equation*} 
+
+Las soluciones a esta ecuación con significado físico son aquellas que son regulares en el origen, es decir
+
+\begin{equation}
+u^{(i)}(E,r)|_{r=0} = 0, \label{COPR}
+\end{equation} 
+
+por lo que podemos escribir una de las constantes arbitrarias en términos de la otra
+
+\begin{equation*}
+u^{(i)}(E,r) = A_i \left[ u^{(i)}_1(E,r) -  \frac{u^{(i)}_1(E,0)}{u_2^{(i)}(E,0)} u_2^{(i)}(E,r) \right].  
+\end{equation*} 
+
+
+Por lo general, se escribe la dependencia energética en términos de un parámetro $k^2 = E$, y a lo largo de este trabajo se usarán ambas representaciones según sea conveniente. Por otro lado, para la región $R < r$, la ecuación correspondiente es
+
+\begin{equation*}
+\frac{d^2 u^{(e)}}{dr^2} +  k^2 u^{(e)} = 0,
+\end{equation*} 
+
+por lo que podemos obtener la solución general para esta región de manera explícita
+
+\begin{equation*}
+u^{(e)}(k,r) = A_e e^{i k r} + B_e e^{- i k r}.
+\end{equation*} 
+
+La función de onda completa correspondiente al potencial $(\ref{PCA})$ es entonces 
+
+\begin{equation}
+\label{FOGCSI}
+u(k,r) =
+\begin{cases}
+A_i \left[ u^{(i)}_1(k,r) -  \frac{u^{(i)}_1(k,0)}{u_2^{(i)}(k,0)} u_2^{(i)}(k,r) \right] & r < R 
+\\ 
+A_e e^{i k r} + B_e e^{-i k r} & R < r
+\end{cases}.
+\end{equation} 
+
+Este análisis permite obtener expresiones generales para sistemas caracterizados por un potencial de corto alcance cuyo umbral es $E = 0$, que contiene tanto espectro de dispersión como de estados ligados, los cuales srán estudiados en la siguiente subsección.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Estados ligados}\label{SSELPCA}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Los estados ligados en este tipo de sistemas, están dados para valores de la energía $k^2 = E <0$, por lo que en este caso el parámetro $k$ es un número puramente imaginario. Para obtener una función de cuadrado integrable, necesitamos restringir el dominio de $\kappa$ y a partir de esto anular la constante arbitraria que acompañe a la solución exponencial creciente fuera de la región de interacción, en este caso elegimos $\kappa > 0$
+
+\begin{equation}
+\label{FOELPCA}
+u(k,r) =
+\begin{cases}
+A_i \left[ u^{(i)}_1(\kappa,r) -  \frac{u^{(i)}_1(\kappa,0)}{u_2^{(i)}(\kappa,0)} u_2^{(i)}(\kappa,r) \right] & r < R 
+\\ 
+A_e e^{-\kappa r} & R < r
+\end{cases}.
+\end{equation} 
+
+
+En este tipo de problemas donde la solución es una función a trozos, es importante asegurar que ésta sea univaluada y que su primera derivadada sea continua. Por lo tanto, en el punto de corte, las funciones para cada región, así como su respectiva derivada, deben ser iguales
+
+\begin{eqnarray}
+	\label{CCG1}
+	A_i u^{(i)}(\kappa, R) = A_e e^{-\kappa R}
+	\\
+	\label{CCG2}
+	A_i \partial_r u^{(i)}(\kappa, r)|_{r = R} = A_e \partial_r e^{-\kappa r}|_{r = R}
+\end{eqnarray}
+
+Este sistema de ecuaciones es conocido como "condiciones de continuidad", y permite obtener los valores de los coeficientes que acompañan a la función de onda. Sin embargo, la forma de las ecuaciones implica que $A_i$ y $A_e$ sean linearmente dependientes, por lo que la primera ecuación $(\ref{CCG1})$ se usa para obtener el valor de uno de ellos
+
+\begin{equation*}
+A_e = A_i u^{(i)}(\kappa, R) e^{\kappa R}.
+\end{equation*}
+
+Al sustituir el valor de $A_e$ en la segunda condición de continuidad $(\ref{CCG2})$ se llega a  la ecuación
+
+\begin{equation*}
+	 u^{(i)}(\kappa, R) \partial_r e^{-\kappa r}|_{r = R} - \partial_r u^{(i)}(\kappa, r)|_{r = R} e^{-\kappa R} = 0 
+\end{equation*}
+
+el lado izquierdo de esta expresión no es mas que el wronskiano entre la soluciones de la región interna y la región externa
+
+\begin{equation}
+W[u^{(i)}(\kappa, r), e^{-\kappa r}]_{r = R} = 0 \label{COCUG}.
+\end{equation}
+
+A partir de esta ecuación, podemos obtener los valores de $\kappa$ para los cuales la función de onda es continua y de cuadrado integrable, obteniendo valores puntuales de la energía, es decir un espectro discreto. En la siguiente subsección, se construirá el resto del espectro, dado por funciones de onda acotadas.
+
+
+\subsection{Estados de dispresión}
+
+Para el caso de la dispersión, tomamos valores de $E > 0$, por lo que $k$ es un número real. Entonces cmomo la función $(\ref{FOGCSI})$ cumple el requerimiento de ser acotada, lo único que resta es asegurar su continuidad a través de las ecuaciones 
+
+\begin{eqnarray*}
+\label{CCSIG}
+A_i u^{(i)}(k,R)  = A_e e^{i k R} + B_e e^{-i k R} 
+\\ 
+A_i \partial_r u^{(i)}(k,r)|_{r = R}  = i k A_e e^{i k R} - i k B_e e^{-i k R} 
+\end{eqnarray*}
+
+
+A diferencia del caso de los estados ligados, esta vez tenemos tres coeficientes y dos ecuaciones, por lo que uno de los coeficientes será nuevamente una constante de normalización, mientraas que la variable de energía podrá nomar cualquier valor tal que $E > 0$, formando un espectro continuo. Al resolver $(\ref{CCSIG})$ para $A_e $ y $B_e$, obtenemos
+
+\begin{eqnarray*}
+	B_e = \frac{W[u^{(i)}(k,r), e^{-i k r}]}{W[e^{ikr},e^{-ikr}]}  \Bigr\rvert_{r=R}
+	\\
+	C_e = -\frac{W[u^{(i)}(k,r), e^{i k r}]}{W[e^{ikr},e^{-ikr}]}  \Bigr\rvert_{r=R}.
+\end{eqnarray*}
+
+
+Como las funciones $e^{\pm ikr}$ son complejos conjugados entre si y $u^{(i)}(k,r)$ es puramente real, los coeficientes cumplen la simetría $C_e = - B^{*}_e$, permitiendo escribir la función de onda de la forma
+
+\begin{equation}
+u(k,r) =
+A 
+\begin{cases}
+\left[ u^{(i)}_1(k,r) -  \frac{u^{(i)}_1(k,0)}{u_2^{(i)}(k,0)} u_2^{(i)}(k,r) \right] & r < R 
+\\ 
+ \frac{Im \{W[u^{(i)}(k,r), e^{i k r}]_{r=R} e^{-i k r}\}}{Im[e^{ikr} \partial_r e^{ikr}]_{r=R}} & R < r
+\end{cases}.
+\end{equation}
+
+Las expresiones obtenidas en esta sección pueden ser modificadas para obtener la forma de las funciones de onda asociadas a potenciales definidos por dos regiones, lo cual será de utilidad en las secciones posteriores.
