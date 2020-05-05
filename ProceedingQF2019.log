@@ -1,0 +1,477 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.6.30)  22 FEB 2020 19:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ProceedingQF2019.tex
+(./ProceedingQF2019.tex
+LaTeX2e <2018-12-01>
+(./jpconf.cls
+Document Class: jpconf 2007/03/07 v1.1 LaTeX class for Journal of Physics: Conf
+erence Series
+(./jpconf11.clo
+File: jpconf11.clo 2005/05/04 v1.0 LaTeX2e file (size option)
+)
+\indentedwidth=\skip41
+\mathindent=\dimen102
+\c@oldftnote=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\bibindent=\dimen103
+\c@eqnval=\count88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {{\bf #1.} #2}\ifdim \wd \@tempboxa >\hsize {\bf #1.} #2\par
+ \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi
+ \vskip \belowcaptionskip .
+\c@caption@flags=\count89
+\c@ContinuedFloat=\count90
+)
+\c@KVtest=\count91
+\sf@farskip=\skip44
+\sf@captopadj=\dimen113
+\sf@capskip=\skip45
+\sf@nearskip=\skip46
+\c@subfigure=\count92
+\c@subfigure@save=\count93
+\c@lofdepth=\count94
+\c@subtable=\count95
+\c@subtable@save=\count96
+\c@lotdepth=\count97
+\sf@top=\skip47
+\sf@bottom=\skip48
+) (./ProceedingQF2019.aux
+
+LaTeX Warning: Label `vNW-V2' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+)
+\openout1 = `ProceedingQF2019.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen114
+\scratchbox=\box27
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen115
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 5.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 5.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package epstopdf Info: Source file: <vNW-Figure.eps>
+(epstopdf)                    date: 2019-11-29 13:35:02
+(epstopdf)                    size: 398085 bytes
+(epstopdf)             Output file: <vNW-Figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-11-29 13:35:22
+(epstopdf)                    size: 16397 bytes
+(epstopdf)             Command: <repstopdf --outfile=vNW-Figure-eps-converted-t
+o.pdf vNW-Figure.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+<vNW-Figure-eps-converted-to.pdf, id=13, 260.975pt x 165.61874pt>
+File: vNW-Figure-eps-converted-to.pdf Graphic file (type pdf)
+<use vNW-Figure-eps-converted-to.pdf>
+Package pdftex.def Info: vNW-Figure-eps-converted-to.pdf  used on input line 62
+.
+(pdftex.def)             Requested size: 182.68126pt x 115.93231pt.
+ [2] [3 <./vNW-Figure-eps-converted-to.pdf>] [4]
+Package epstopdf Info: Source file: <TRHO-Figure.eps>
+(epstopdf)                    date: 2019-11-29 13:34:04
+(epstopdf)                    size: 393581 bytes
+(epstopdf)             Output file: <TRHO-Figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:46
+(epstopdf)                    size: 15943 bytes
+(epstopdf)             Command: <repstopdf --outfile=TRHO-Figure-eps-converted-
+to.pdf TRHO-Figure.eps>
+(epstopdf)             \includegraphics on input line 209.
+Package epstopdf Info: Output file is already uptodate.
+<TRHO-Figure-eps-converted-to.pdf, id=38, 260.975pt x 165.61874pt>
+File: TRHO-Figure-eps-converted-to.pdf Graphic file (type pdf)
+<use TRHO-Figure-eps-converted-to.pdf>
+Package pdftex.def Info: TRHO-Figure-eps-converted-to.pdf  used on input line 2
+09.
+(pdftex.def)             Requested size: 191.20168pt x 121.3404pt.
+Package epstopdf Info: Source file: <Scattering.eps>
+(epstopdf)                    date: 2019-12-03 18:24:04
+(epstopdf)                    size: 34409 bytes
+(epstopdf)             Output file: <Scattering-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:46
+(epstopdf)                    size: 14362 bytes
+(epstopdf)             Command: <repstopdf --outfile=Scattering-eps-converted-t
+o.pdf Scattering.eps>
+(epstopdf)             \includegraphics on input line 214.
+Package epstopdf Info: Output file is already uptodate.
+<Scattering-eps-converted-to.pdf, id=39, 359.3425pt x 221.82875pt>
+File: Scattering-eps-converted-to.pdf Graphic file (type pdf)
+<use Scattering-eps-converted-to.pdf>
+Package pdftex.def Info: Scattering-eps-converted-to.pdf  used on input line 21
+4.
+(pdftex.def)             Requested size: 191.20168pt x 118.03577pt.
+ [5]
+Overfull \hbox (7.60591pt too wide) in alignment at lines 240--242
+ [][][] []
+ []
+
+[6 <./TRHO-Figure-eps-converted-to.pdf> <./Scattering-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Differentiable_transformation_function.eps
+>
+(epstopdf)                    date: 2019-12-03 19:00:36
+(epstopdf)                    size: 32580 bytes
+(epstopdf)             Output file: <Differentiable_transformation_function-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:48
+(epstopdf)                    size: 14066 bytes
+(epstopdf)             Command: <repstopdf --outfile=Differentiable_transformat
+ion_function-eps-converted-to.pdf Differentiable_transformation_function.eps>
+(epstopdf)             \includegraphics on input line 270.
+Package epstopdf Info: Output file is already uptodate.
+<Differentiable_transformation_function-eps-converted-to.pdf, id=65, 831.105pt 
+x 513.92pt>
+File: Differentiable_transformation_function-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use Differentiable_transformation_function-eps-converted-to.pdf>
+Package pdftex.def Info: Differentiable_transformation_function-eps-converted-t
+o.pdf  used on input line 270.
+(pdftex.def)             Requested size: 186.65173pt x 115.41527pt.
+Package epstopdf Info: Source file: <Not_Differentiable_transformation_function
+.eps>
+(epstopdf)                    date: 2019-12-03 19:00:38
+(epstopdf)                    size: 46248 bytes
+(epstopdf)             Output file: <Not_Differentiable_transformation_function
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:50
+(epstopdf)                    size: 19233 bytes
+(epstopdf)             Command: <repstopdf --outfile=Not_Differentiable_transfo
+rmation_function-eps-converted-to.pdf Not_Differentiable_transformation_functio
+n.eps>
+(epstopdf)             \includegraphics on input line 275.
+Package epstopdf Info: Output file is already uptodate.
+<Not_Differentiable_transformation_function-eps-converted-to.pdf, id=66, 818.05
+624pt x 507.8975pt>
+File: Not_Differentiable_transformation_function-eps-converted-to.pdf Graphic f
+ile (type pdf)
+<use Not_Differentiable_transformation_function-eps-converted-to.pdf>
+Package pdftex.def Info: Not_Differentiable_transformation_function-eps-convert
+ed-to.pdf  used on input line 275.
+(pdftex.def)             Requested size: 186.65173pt x 115.88397pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+[7 <./Differentiable_transformation_function-eps-converted-to.pdf> <./Not_Diffe
+rentiable_transformation_function-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Potential.eps>
+(epstopdf)                    date: 2019-12-05 11:26:58
+(epstopdf)                    size: 19995 bytes
+(epstopdf)             Output file: <Potential-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:27:38
+(epstopdf)                    size: 8702 bytes
+(epstopdf)             Command: <repstopdf --outfile=Potential-eps-converted-to
+.pdf Potential.eps>
+(epstopdf)             \includegraphics on input line 316.
+Package epstopdf Info: Output file is already uptodate.
+<Potential-eps-converted-to.pdf, id=87, 359.3425pt x 225.84375pt>
+File: Potential-eps-converted-to.pdf Graphic file (type pdf)
+<use Potential-eps-converted-to.pdf>
+Package pdftex.def Info: Potential-eps-converted-to.pdf  used on input line 316
+.
+(pdftex.def)             Requested size: 186.65173pt x 117.3119pt.
+Package epstopdf Info: Source file: <Potential_discontinuity.eps>
+(epstopdf)                    date: 2019-12-05 11:27:02
+(epstopdf)                    size: 14930 bytes
+(epstopdf)             Output file: <Potential_discontinuity-eps-converted-to.p
+df>
+(epstopdf)                    date: 2019-12-05 11:27:40
+(epstopdf)                    size: 6697 bytes
+(epstopdf)             Command: <repstopdf --outfile=Potential_discontinuity-ep
+s-converted-to.pdf Potential_discontinuity.eps>
+(epstopdf)             \includegraphics on input line 321.
+Package epstopdf Info: Output file is already uptodate.
+<Potential_discontinuity-eps-converted-to.pdf, id=88, 359.3425pt x 226.8475pt>
+File: Potential_discontinuity-eps-converted-to.pdf Graphic file (type pdf)
+<use Potential_discontinuity-eps-converted-to.pdf>
+Package pdftex.def Info: Potential_discontinuity-eps-converted-to.pdf  used on 
+input line 321.
+(pdftex.def)             Requested size: 186.65173pt x 117.8333pt.
+ [8 <./Potential-eps-converted-to.pdf> <./Potential_discontinuity-eps-converted
+-to.pdf>]
+Package epstopdf Info: Source file: <Bound_states.eps>
+(epstopdf)                    date: 2019-12-10 11:58:24
+(epstopdf)                    size: 29779 bytes
+(epstopdf)             Output file: <Bound_states-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 11:59:30
+(epstopdf)                    size: 11946 bytes
+(epstopdf)             Command: <repstopdf --outfile=Bound_states-eps-converted
+-to.pdf Bound_states.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+<Bound_states-eps-converted-to.pdf, id=109, 705.63625pt x 437.635pt>
+File: Bound_states-eps-converted-to.pdf Graphic file (type pdf)
+<use Bound_states-eps-converted-to.pdf>
+Package pdftex.def Info: Bound_states-eps-converted-to.pdf  used on input line 
+379.
+(pdftex.def)             Requested size: 211.6925pt x 131.2915pt.
+ [9 <./Bound_states-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Scattering_DT.eps>
+(epstopdf)                    date: 2019-12-10 17:43:08
+(epstopdf)                    size: 266129 bytes
+(epstopdf)             Output file: <Scattering_DT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 17:43:46
+(epstopdf)                    size: 8976 bytes
+(epstopdf)             Command: <repstopdf --outfile=Scattering_DT-eps-converte
+d-to.pdf Scattering_DT.eps>
+(epstopdf)             \includegraphics on input line 428.
+Package epstopdf Info: Output file is already uptodate.
+<Scattering_DT-eps-converted-to.pdf, id=121, 258.9675pt x 159.59625pt>
+File: Scattering_DT-eps-converted-to.pdf Graphic file (type pdf)
+<use Scattering_DT-eps-converted-to.pdf>
+Package pdftex.def Info: Scattering_DT-eps-converted-to.pdf  used on input line
+ 428.
+(pdftex.def)             Requested size: 186.65173pt x 115.03339pt.
+Package epstopdf Info: Source file: <BIC.eps>
+(epstopdf)                    date: 2019-12-10 17:43:14
+(epstopdf)                    size: 269590 bytes
+(epstopdf)             Output file: <BIC-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 17:43:48
+(epstopdf)                    size: 9484 bytes
+(epstopdf)             Command: <repstopdf --outfile=BIC-eps-converted-to.pdf B
+IC.eps>
+(epstopdf)             \includegraphics on input line 433.
+Package epstopdf Info: Output file is already uptodate.
+<BIC-eps-converted-to.pdf, id=122, 258.9675pt x 161.60374pt>
+File: BIC-eps-converted-to.pdf Graphic file (type pdf)
+<use BIC-eps-converted-to.pdf>
+Package pdftex.def Info: BIC-eps-converted-to.pdf  used on input line 433.
+(pdftex.def)             Requested size: 186.65173pt x 116.48036pt.
+ [10 <./Scattering_DT-eps-converted-to.pdf> <./BIC-eps-converted-to.pdf>]
+Overfull \hbox (11.03146pt too wide) in alignment at lines 463--470
+ [][][] []
+ []
+
+
+Overfull \hbox (59.30519pt too wide) in alignment at lines 474--478
+ [][][] []
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+[12] (./ProceedingQF2019.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.78749pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2988 strings out of 492615
+ 46544 string characters out of 6131390
+ 120911 words of memory out of 5000000
+ 6887 multiletter control sequences out of 15000+600000
+ 8758 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,15n,49p,1146b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on ProceedingQF2019.pdf (12 pages, 349057 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

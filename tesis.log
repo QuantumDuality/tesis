@@ -1,0 +1,1791 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.2)  3 MAY 2020 16:51
+entering extended mode
+**./tesis.tex
+(tesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (ezthesis.cls
+Document Class: ezthesis 2007/08/08 A custom thesis class
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cl
+s"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.cl
+o"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
+.def"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\
+spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count178
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+Package babel Info: Making ' an active character on input line 725.
+))
+\hours=\count179
+\minutes=\count180
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setsp
+ace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex
+.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.
+sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count181
+\Gm@cntv=\count182
+\c@Gm@tempcnt=\count183
+\Gm@bindingoffset=\dimen136
+\Gm@wd@mp=\dimen137
+\Gm@odd@mp=\dimen138
+\Gm@even@mp=\dimen139
+\Gm@layoutwidth=\dimen140
+\Gm@layoutheight=\dimen141
+\Gm@layouthoffset=\dimen142
+\Gm@layoutvoffset=\dimen143
+\Gm@dimlist=\toks17
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geome
+try.cfg"))
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
+hdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.
+sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip58
+\bibsep=\skip59
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count184
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.
+sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
+mb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
+nts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\bookt
+abs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count185
+\@cmidlb=\count186
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count187
+\@lastruleclass=\count188
+\@thisrulewidth=\dimen158
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.
+sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n.sty"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n3.sty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen159
+\captionmargin@=\dimen160
+\captionwidth=\dimen161
+\caption@tempdima=\dimen162
+\caption@indent=\dimen163
+\caption@parindent=\dimen164
+\caption@hangindent=\dimen165
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count189
+\c@continuedfloat=\count190
+)
+\c@KVtest=\count191
+\sf@farskip=\skip60
+\sf@captopadj=\dimen166
+\sf@capskip=\skip61
+\sf@nearskip=\skip62
+\c@subfigure=\count192
+\c@subfigure@save=\count193
+\c@lofdepth=\count194
+\c@subtable=\count195
+\c@subtable@save=\count196
+\c@lotdepth=\count197
+\sf@top=\skip63
+\sf@bottom=\skip64
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
+h.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
+t.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen167
+))
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
+.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks20
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks21
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks22
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+\pFqmuskip=\muskip17
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyper
+ref.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxc
+mds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdf
+texcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\in
+fwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kv
+setkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pd
+fescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolo
+r.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\le
+tltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhoo
+k.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvop
+tions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen176
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1en
+c.def"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intc
+alc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\ete
+xcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+Package hyperref Info: Option `final' set `true' on input line 4421.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count279
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen177
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitse
+t.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\b
+igintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen178
+\Fld@charsize=\dimen179
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atb
+egshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdft
+ex.def"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atve
+ryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck
+\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounte
+r\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 84.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hypca
+p.sty"
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3ba
+ckend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count286
+\l__pdf_internal_box=\box47
+) (tesis.aux (titlepage.aux)
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ (gracias.aux) (intro.aux)
+(TD.aux) (Potenciales_CA.aux) (Potenciales.aux
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:c' multiply defined.
+
+
+LaTeX Warning: Label `Fig_POAEO' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `TRPR-Figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `TRPR-Figure' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:c' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `FOGCP' multiply defined.
+
+
+LaTeX Warning: Label `fig:a' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:a' multiply defined.
+
+
+LaTeX Warning: Label `fig:b' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:b' multiply defined.
+
+
+LaTeX Warning: Label `fig:c' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:c' multiply defined.
+
+) (conclu.aux))
+\openout1 = `tesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 429.3521pt, 71.13188pt)
+* v-part:(T,H,B)=(113.81102pt, 587.26488pt, 93.89409pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=429.3521pt
+* \textheight=587.26488pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-1.91171pt
+* \headheight=15.0pt
+* \headsep=28.45274pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=42.67912pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen180
+\scratchbox=\box48
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen181
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.
+sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring ON on input line 85.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namer
+ef.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refco
+unt.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestri
+ng\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count293
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+ (tesis.out) (tesis.out)
+\@outlinefile=\write3
+\openout3 = `tesis.out'.
+
+\openout2 = `titlepage.aux'.
+
+ (titlepage.tex [1
+
+
+{C:/Users/Leo Lopez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+\openout2 = `gracias.aux'.
+
+ (gracias.tex)
+[2
+
+
+
+
+] (tesis.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+("C:\Users\Leo Lopez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
+fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3
+
+
+])
+\tf@toc=\write4
+\openout4 = `tesis.toc'.
+
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+Make it at least 15.71667pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[4]
+\openout2 = `intro.aux'.
+
+ (intro.tex
+Cap\'{\i }tulo 1.
+[5
+
+
+]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [6]
+Package epstopdf Info: Source file: <WP.eps>
+(epstopdf)                    date: 2020-04-15 11:30:38
+(epstopdf)                    size: 81729 bytes
+(epstopdf)             Output file: <WP-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-15 12:47:20
+(epstopdf)                    size: 29485 bytes
+(epstopdf)             Command: <epstopdf --outfile=WP-eps-converted-to.pdf WP.
+eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+<WP-eps-converted-to.pdf, id=220, 321.2pt x 182.6825pt>
+File: WP-eps-converted-to.pdf Graphic file (type pdf)
+<use WP-eps-converted-to.pdf>
+Package pdftex.def Info: WP-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 321.19922pt x 182.68204pt.
+
+Underfull \vbox (badness 1184) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+ [7 <./WP-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Ex-Pot.eps>
+(epstopdf)                    date: 2020-04-07 08:06:14
+(epstopdf)                    size: 30684 bytes
+(epstopdf)             Output file: <Ex-Pot-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-07 08:08:46
+(epstopdf)                    size: 11788 bytes
+(epstopdf)             Command: <epstopdf --outfile=Ex-Pot-eps-converted-to.pdf
+ Ex-Pot.eps>
+(epstopdf)             \includegraphics on input line 91.
+Package epstopdf Info: Output file is already uptodate.
+<Ex-Pot-eps-converted-to.pdf, id=245, 312.16624pt x 176.66pt>
+File: Ex-Pot-eps-converted-to.pdf Graphic file (type pdf)
+<use Ex-Pot-eps-converted-to.pdf>
+Package pdftex.def Info: Ex-Pot-eps-converted-to.pdf  used on input line 91.
+(pdftex.def)             Requested size: 312.16548pt x 176.65956pt.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+ [8]
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [9 <./Ex-Pot-eps-converted-to.pdf>]
+Underfull \vbox (badness 7064) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+ [10]
+Underfull \vbox (badness 1845) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 215.
+LaTeX Info: Redefining \% on input line 215.
+ [11]
+Package epstopdf Info: Source file: <vNW-Figure.eps>
+(epstopdf)                    date: 2020-04-11 09:50:08
+(epstopdf)                    size: 37409 bytes
+(epstopdf)             Output file: <vNW-Figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-11 09:50:22
+(epstopdf)                    size: 15255 bytes
+(epstopdf)             Command: <epstopdf --outfile=vNW-Figure-eps-converted-to
+.pdf vNW-Figure.eps>
+(epstopdf)             \includegraphics on input line 220.
+Package epstopdf Info: Output file is already uptodate.
+<vNW-Figure-eps-converted-to.pdf, id=282, 311.1625pt x 182.6825pt>
+File: vNW-Figure-eps-converted-to.pdf Graphic file (type pdf)
+<use vNW-Figure-eps-converted-to.pdf>
+Package pdftex.def Info: vNW-Figure-eps-converted-to.pdf  used on input line 22
+0.
+(pdftex.def)             Requested size: 186.69894pt x 109.61034pt.
+)
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+
+[12 <./vNW-Figure-eps-converted-to.pdf>]
+\openout2 = `TD.aux'.
+
+ (TD.tex
+Cap\'{\i }tulo 2.
+[13
+
+
+
+]
+Overfull \hbox (2.4212pt too wide) in paragraph at lines 75--76
+[]\OT1/cmr/m/n/12 Esto quie-re de-cir que me-dian-te una so-lu-cion partcu-l
+ar a una ecua-cion de Schrodin-
+ []
+
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+[14]
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
+ [15]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [16]
+Package epstopdf Info: Source file: <OA-Fig.eps>
+(epstopdf)                    date: 2020-04-03 06:04:14
+(epstopdf)                    size: 47336 bytes
+(epstopdf)             Output file: <OA-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-03 06:05:04
+(epstopdf)                    size: 18195 bytes
+(epstopdf)             Command: <epstopdf --outfile=OA-Fig-eps-converted-to.pdf
+ OA-Fig.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+<OA-Fig-eps-converted-to.pdf, id=335, 312.16624pt x 189.70876pt>
+File: OA-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use OA-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: OA-Fig-eps-converted-to.pdf  used on input line 172.
+(pdftex.def)             Requested size: 201.796pt x 122.63765pt.
+Package epstopdf Info: Source file: <TD1OA-Fig.eps>
+(epstopdf)                    date: 2020-04-03 06:10:22
+(epstopdf)                    size: 59384 bytes
+(epstopdf)             Output file: <TD1OA-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-03 06:13:38
+(epstopdf)                    size: 21760 bytes
+(epstopdf)             Command: <epstopdf --outfile=TD1OA-Fig-eps-converted-to.
+pdf TD1OA-Fig.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+<TD1OA-Fig-eps-converted-to.pdf, id=336, 323.2075pt x 186.6975pt>
+File: TD1OA-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use TD1OA-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: TD1OA-Fig-eps-converted-to.pdf  used on input line 177
+.
+(pdftex.def)             Requested size: 201.796pt x 116.566pt.
+LaTeX Info: Redefining \. on input line 188.
+LaTeX Info: Redefining \% on input line 188.
+ [17]
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+ [18 <./OA-Fig-eps-converted-to.pdf> <./TD1OA-Fig-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `TD2OA-Figure' on page 19 undefined on input line 218.
+
+
+Package epstopdf Info: Source file: <TD2OA0-Fig.eps>
+(epstopdf)                    date: 2020-04-06 05:02:38
+(epstopdf)                    size: 46244 bytes
+(epstopdf)             Output file: <TD2OA0-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-06 05:03:00
+(epstopdf)                    size: 17714 bytes
+(epstopdf)             Command: <epstopdf --outfile=TD2OA0-Fig-eps-converted-to
+.pdf TD2OA0-Fig.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+<TD2OA0-Fig-eps-converted-to.pdf, id=381, 323.2075pt x 182.6825pt>
+File: TD2OA0-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use TD2OA0-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: TD2OA0-Fig-eps-converted-to.pdf  used on input line 22
+5.
+(pdftex.def)             Requested size: 201.796pt x 114.05919pt.
+Package epstopdf Info: Source file: <TD2OA1-Fig.eps>
+(epstopdf)                    date: 2020-04-06 05:02:38
+(epstopdf)                    size: 52837 bytes
+(epstopdf)             Output file: <TD2OA1-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-06 05:03:00
+(epstopdf)                    size: 20045 bytes
+(epstopdf)             Command: <epstopdf --outfile=TD2OA1-Fig-eps-converted-to
+.pdf TD2OA1-Fig.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+<TD2OA1-Fig-eps-converted-to.pdf, id=382, 323.2075pt x 182.6825pt>
+File: TD2OA1-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use TD2OA1-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: TD2OA1-Fig-eps-converted-to.pdf  used on input line 23
+0.
+(pdftex.def)             Requested size: 201.796pt x 114.05919pt.
+Package epstopdf Info: Source file: <TD2OA2-Fig.eps>
+(epstopdf)                    date: 2020-04-06 05:02:38
+(epstopdf)                    size: 22907 bytes
+(epstopdf)             Output file: <TD2OA2-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-06 05:03:14
+(epstopdf)                    size: 9716 bytes
+(epstopdf)             Command: <epstopdf --outfile=TD2OA2-Fig-eps-converted-to
+.pdf TD2OA2-Fig.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+<TD2OA2-Fig-eps-converted-to.pdf, id=385, 359.3425pt x 237.88875pt>
+File: TD2OA2-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use TD2OA2-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: TD2OA2-Fig-eps-converted-to.pdf  used on input line 24
+0.
+(pdftex.def)             Requested size: 201.796pt x 133.59428pt.
+Package epstopdf Info: Source file: <TD2OA3-Fig.eps>
+(epstopdf)                    date: 2020-04-06 05:02:38
+(epstopdf)                    size: 26160 bytes
+(epstopdf)             Output file: <TD2OA3-Fig-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-04-06 05:03:00
+(epstopdf)                    size: 10912 bytes
+(epstopdf)             Command: <epstopdf --outfile=TD2OA3-Fig-eps-converted-to
+.pdf TD2OA3-Fig.eps>
+(epstopdf)             \includegraphics on input line 245.
+Package epstopdf Info: Output file is already uptodate.
+<TD2OA3-Fig-eps-converted-to.pdf, id=386, 359.3425pt x 237.88875pt>
+File: TD2OA3-Fig-eps-converted-to.pdf Graphic file (type pdf)
+<use TD2OA3-Fig-eps-converted-to.pdf>
+Package pdftex.def Info: TD2OA3-Fig-eps-converted-to.pdf  used on input line 24
+5.
+(pdftex.def)             Requested size: 201.796pt x 133.59428pt.
+
+Underfull \vbox (badness 3375) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 258.
+LaTeX Info: Redefining \% on input line 258.
+ [19 <./TD2OA0-Fig-eps-converted-to.pdf> <./TD2OA1-Fig-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 267.
+LaTeX Info: Redefining \% on input line 267.
+ [20 <./TD2OA2-Fig-eps-converted-to.pdf> <./TD2OA3-Fig-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 305.
+LaTeX Info: Redefining \% on input line 305.
+ [21])
+LaTeX Info: Redefining \. on input line 113.
+LaTeX Info: Redefining \% on input line 113.
+ [22]
+\openout2 = `Potenciales_CA.aux'.
+
+
+(Potenciales_CA.tex
+Cap\'{\i }tulo 3.
+
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+ [23
+
+
+
+]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 67.
+
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
+[24]
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+ [25]
+
+Package hyperref Warning: Suppressing link with empty target on input line 126.
+
+
+)
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
+ [26]
+\openout2 = `Potenciales.aux'.
+
+ (Potenciales.tex
+Cap\'{\i }tulo 4.
+[27
+
+
+
+]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [28]
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+ [29]
+Package epstopdf Info: Source file: <PPLTD.eps>
+(epstopdf)                    date: 2020-02-21 12:30:40
+(epstopdf)                    size: 32869 bytes
+(epstopdf)             Output file: <PPLTD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 12:36:00
+(epstopdf)                    size: 13486 bytes
+(epstopdf)             Command: <epstopdf --outfile=PPLTD-eps-converted-to.pdf 
+PPLTD.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+<PPLTD-eps-converted-to.pdf, id=519, 361.35pt x 219.82124pt>
+File: PPLTD-eps-converted-to.pdf Graphic file (type pdf)
+<use PPLTD-eps-converted-to.pdf>
+Package pdftex.def Info: PPLTD-eps-converted-to.pdf  used on input line 130.
+(pdftex.def)             Requested size: 180.32709pt x 109.69902pt.
+Package epstopdf Info: Source file: <PFOPLTD.eps>
+(epstopdf)                    date: 2020-02-21 13:10:12
+(epstopdf)                    size: 31851 bytes
+(epstopdf)             Output file: <PFOPLTD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 13:11:42
+(epstopdf)                    size: 13034 bytes
+(epstopdf)             Command: <epstopdf --outfile=PFOPLTD-eps-converted-to.pd
+f PFOPLTD.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+<PFOPLTD-eps-converted-to.pdf, id=520, 361.35pt x 214.8025pt>
+File: PFOPLTD-eps-converted-to.pdf Graphic file (type pdf)
+<use PFOPLTD-eps-converted-to.pdf>
+Package pdftex.def Info: PFOPLTD-eps-converted-to.pdf  used on input line 135.
+(pdftex.def)             Requested size: 180.32709pt x 107.19449pt.
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+ [30]
+
+LaTeX Warning: Reference `' on page 31 undefined on input line 175.
+
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+[31 <./PPLTD-eps-converted-to.pdf> <./PFOPLTD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Differentiable_transformation_function.eps
+>
+(epstopdf)                    date: 2019-12-03 19:00:36
+(epstopdf)                    size: 32580 bytes
+(epstopdf)             Output file: <Differentiable_transformation_function-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:48
+(epstopdf)                    size: 14066 bytes
+(epstopdf)             Command: <epstopdf --outfile=Differentiable_transformati
+on_function-eps-converted-to.pdf Differentiable_transformation_function.eps>
+(epstopdf)             \includegraphics on input line 182.
+Package epstopdf Info: Output file is already uptodate.
+<Differentiable_transformation_function-eps-converted-to.pdf, id=562, 831.105pt
+ x 513.92pt>
+File: Differentiable_transformation_function-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use Differentiable_transformation_function-eps-converted-to.pdf>
+Package pdftex.def Info: Differentiable_transformation_function-eps-converted-t
+o.pdf  used on input line 182.
+(pdftex.def)             Requested size: 176.03592pt x 108.8517pt.
+Package epstopdf Info: Source file: <Not_Differentiable_transformation_function
+.eps>
+(epstopdf)                    date: 2019-12-03 19:00:38
+(epstopdf)                    size: 46248 bytes
+(epstopdf)             Output file: <Not_Differentiable_transformation_function
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:50
+(epstopdf)                    size: 19233 bytes
+(epstopdf)             Command: <epstopdf --outfile=Not_Differentiable_transfor
+mation_function-eps-converted-to.pdf Not_Differentiable_transformation_function
+.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+<Not_Differentiable_transformation_function-eps-converted-to.pdf, id=563, 818.0
+5624pt x 507.8975pt>
+File: Not_Differentiable_transformation_function-eps-converted-to.pdf Graphic f
+ile (type pdf)
+<use Not_Differentiable_transformation_function-eps-converted-to.pdf>
+Package pdftex.def Info: Not_Differentiable_transformation_function-eps-convert
+ed-to.pdf  used on input line 187.
+(pdftex.def)             Requested size: 176.03592pt x 109.28883pt.
+
+
+LaTeX Warning: Reference `PCAA' on page 32 undefined on input line 196.
+
+LaTeX Info: Redefining \. on input line 203.
+LaTeX Info: Redefining \% on input line 203.
+[32 <./Differentiable_transformation_function-eps-converted-to.pdf> <./Not_Diff
+erentiable_transformation_function-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 252.
+LaTeX Info: Redefining \% on input line 252.
+ [33]
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 303.
+LaTeX Info: Redefining \% on input line 303.
+ [34]
+Overfull \hbox (36.50642pt too wide) detected at line 323
+\OML/cmm/m/it/12 @[]u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 q; r\OT1/cmr/m/n/12 ) 
+= \OML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 )\OM
+L/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]; r\OT1/cmr/m/n/12 ) + \O
+ML/cmm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 )\OML/cm
+m/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]; r\OT1/cmr/m/n/12 ) + \OML/c
+mm/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 )\OML/cmm/m/
+it/12 @[]u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]; r\OT1/cmr/m/n/12 ) + \OML/cm
+m/m/it/12 []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 )\OML/cmm/m/i
+t/12 @[]u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]; r\OT1/cmr/m/n/12 )\OML/cmm/m/
+it/12 ;
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 331.
+LaTeX Info: Redefining \% on input line 331.
+ [35]
+Overfull \hbox (42.23178pt too wide) in alignment at lines 335--341
+ [][][] []
+ []
+
+Package epstopdf Info: Source file: <PTDCL.eps>
+(epstopdf)                    date: 2020-03-03 18:41:24
+(epstopdf)                    size: 27806 bytes
+(epstopdf)             Output file: <PTDCL-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-03 18:55:28
+(epstopdf)                    size: 11796 bytes
+(epstopdf)             Command: <epstopdf --outfile=PTDCL-eps-converted-to.pdf 
+PTDCL.eps>
+(epstopdf)             \includegraphics on input line 372.
+Package epstopdf Info: Output file is already uptodate.
+<PTDCL-eps-converted-to.pdf, id=608, 359.3425pt x 223.83624pt>
+File: PTDCL-eps-converted-to.pdf Graphic file (type pdf)
+<use PTDCL-eps-converted-to.pdf>
+Package pdftex.def Info: PTDCL-eps-converted-to.pdf  used on input line 372.
+(pdftex.def)             Requested size: 176.03592pt x 109.6568pt.
+Package epstopdf Info: Source file: <FOOTDCL.eps>
+(epstopdf)                    date: 2020-03-03 18:41:24
+(epstopdf)                    size: 11226 bytes
+(epstopdf)             Output file: <FOOTDCL-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-03 19:01:20
+(epstopdf)                    size: 5349 bytes
+(epstopdf)             Command: <epstopdf --outfile=FOOTDCL-eps-converted-to.pd
+f FOOTDCL.eps>
+(epstopdf)             \includegraphics on input line 377.
+Package epstopdf Info: Output file is already uptodate.
+<FOOTDCL-eps-converted-to.pdf, id=609, 359.3425pt x 229.85875pt>
+File: FOOTDCL-eps-converted-to.pdf Graphic file (type pdf)
+<use FOOTDCL-eps-converted-to.pdf>
+Package pdftex.def Info: FOOTDCL-eps-converted-to.pdf  used on input line 377.
+(pdftex.def)             Requested size: 176.03592pt x 112.60721pt.
+
+LaTeX Warning: Reference `PCAA' on page 36 undefined on input line 385.
+
+LaTeX Info: Redefining \. on input line 386.
+LaTeX Info: Redefining \% on input line 386.
+[36]
+Package epstopdf Info: Source file: <PPOATTDe.eps>
+(epstopdf)                    date: 2020-02-21 16:18:38
+(epstopdf)                    size: 27942 bytes
+(epstopdf)             Output file: <PPOATTDe-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 16:33:14
+(epstopdf)                    size: 11845 bytes
+(epstopdf)             Command: <epstopdf --outfile=PPOATTDe-eps-converted-to.p
+df PPOATTDe.eps>
+(epstopdf)             \includegraphics on input line 404.
+Package epstopdf Info: Output file is already uptodate.
+<PPOATTDe-eps-converted-to.pdf, id=616, 361.35pt x 216.81pt>
+File: PPOATTDe-eps-converted-to.pdf Graphic file (type pdf)
+<use PPOATTDe-eps-converted-to.pdf>
+Package pdftex.def Info: PPOATTDe-eps-converted-to.pdf  used on input line 404.
+
+(pdftex.def)             Requested size: 176.03592pt x 105.62248pt.
+Package epstopdf Info: Source file: <PPOATTDo.eps>
+(epstopdf)                    date: 2020-02-21 16:20:14
+(epstopdf)                    size: 28271 bytes
+(epstopdf)             Output file: <PPOATTDo-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 16:33:14
+(epstopdf)                    size: 11815 bytes
+(epstopdf)             Command: <epstopdf --outfile=PPOATTDo-eps-converted-to.p
+df PPOATTDo.eps>
+(epstopdf)             \includegraphics on input line 409.
+Package epstopdf Info: Output file is already uptodate.
+<PPOATTDo-eps-converted-to.pdf, id=617, 361.35pt x 216.81pt>
+File: PPOATTDo-eps-converted-to.pdf Graphic file (type pdf)
+<use PPOATTDo-eps-converted-to.pdf>
+Package pdftex.def Info: PPOATTDo-eps-converted-to.pdf  used on input line 409.
+
+(pdftex.def)             Requested size: 176.03592pt x 105.62248pt.
+Package epstopdf Info: Source file: <FOTDe.eps>
+(epstopdf)                    date: 2020-02-21 17:15:04
+(epstopdf)                    size: 14795 bytes
+(epstopdf)             Output file: <FOTDe-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 17:26:12
+(epstopdf)                    size: 6559 bytes
+(epstopdf)             Command: <epstopdf --outfile=FOTDe-eps-converted-to.pdf 
+FOTDe.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+<FOTDe-eps-converted-to.pdf, id=618, 359.3425pt x 226.8475pt>
+File: FOTDe-eps-converted-to.pdf Graphic file (type pdf)
+<use FOTDe-eps-converted-to.pdf>
+Package pdftex.def Info: FOTDe-eps-converted-to.pdf  used on input line 414.
+(pdftex.def)             Requested size: 176.03592pt x 111.132pt.
+Package epstopdf Info: Source file: <FOTDo.eps>
+(epstopdf)                    date: 2020-02-21 17:15:20
+(epstopdf)                    size: 13680 bytes
+(epstopdf)             Output file: <FOTDo-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-21 17:26:14
+(epstopdf)                    size: 6104 bytes
+(epstopdf)             Command: <epstopdf --outfile=FOTDo-eps-converted-to.pdf 
+FOTDo.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
+<FOTDo-eps-converted-to.pdf, id=619, 359.3425pt x 222.8325pt>
+File: FOTDo-eps-converted-to.pdf Graphic file (type pdf)
+<use FOTDo-eps-converted-to.pdf>
+Package pdftex.def Info: FOTDo-eps-converted-to.pdf  used on input line 419.
+(pdftex.def)             Requested size: 176.03592pt x 109.16507pt.
+LaTeX Info: Redefining \. on input line 434.
+LaTeX Info: Redefining \% on input line 434.
+ [37 <./PTDCL-eps-converted-to.pdf> <./FOOTDCL-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 434.
+LaTeX Info: Redefining \% on input line 434.
+
+[38 <./PPOATTDe-eps-converted-to.pdf> <./PPOATTDo-eps-converted-to.pdf> <./FOTD
+e-eps-converted-to.pdf> <./FOTDo-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 472.
+LaTeX Info: Redefining \% on input line 472.
+ [39]
+LaTeX Info: Redefining \. on input line 508.
+LaTeX Info: Redefining \% on input line 508.
+ [40]
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
+ [41]
+Overfull \hbox (69.30508pt too wide) in alignment at lines 560--567
+ [][][] []
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 575.
+LaTeX Info: Redefining \% on input line 575.
+ [42]
+Underfull \vbox (badness 3271) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 603.
+LaTeX Info: Redefining \% on input line 603.
+ [43]
+LaTeX Info: Redefining \. on input line 639.
+LaTeX Info: Redefining \% on input line 639.
+
+[44]
+LaTeX Info: Redefining \. on input line 686.
+LaTeX Info: Redefining \% on input line 686.
+ [45]
+LaTeX Info: Redefining \. on input line 734.
+LaTeX Info: Redefining \% on input line 734.
+ [46]
+LaTeX Info: Redefining \. on input line 788.
+LaTeX Info: Redefining \% on input line 788.
+ [47]
+Package epstopdf Info: Source file: <PRSI.eps>
+(epstopdf)                    date: 2020-02-24 17:12:56
+(epstopdf)                    size: 36934 bytes
+(epstopdf)             Output file: <PRSI-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-24 17:21:20
+(epstopdf)                    size: 14440 bytes
+(epstopdf)             Command: <epstopdf --outfile=PRSI-eps-converted-to.pdf P
+RSI.eps>
+(epstopdf)             \includegraphics on input line 817.
+Package epstopdf Info: Output file is already uptodate.
+<PRSI-eps-converted-to.pdf, id=755, 359.3425pt x 221.82875pt>
+File: PRSI-eps-converted-to.pdf Graphic file (type pdf)
+<use PRSI-eps-converted-to.pdf>
+Package pdftex.def Info: PRSI-eps-converted-to.pdf  used on input line 817.
+(pdftex.def)             Requested size: 180.32709pt x 111.32027pt.
+Package epstopdf Info: Source file: <SSSIPR.eps>
+(epstopdf)                    date: 2020-02-24 19:25:14
+(epstopdf)                    size: 34189 bytes
+(epstopdf)             Output file: <SSSIPR-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-24 19:27:10
+(epstopdf)                    size: 14258 bytes
+(epstopdf)             Command: <epstopdf --outfile=SSSIPR-eps-converted-to.pdf
+ SSSIPR.eps>
+(epstopdf)             \includegraphics on input line 822.
+Package epstopdf Info: Output file is already uptodate.
+<SSSIPR-eps-converted-to.pdf, id=756, 359.3425pt x 221.82875pt>
+File: SSSIPR-eps-converted-to.pdf Graphic file (type pdf)
+<use SSSIPR-eps-converted-to.pdf>
+Package pdftex.def Info: SSSIPR-eps-converted-to.pdf  used on input line 822.
+(pdftex.def)             Requested size: 180.32709pt x 111.32027pt.
+LaTeX Info: Redefining \. on input line 842.
+LaTeX Info: Redefining \% on input line 842.
+ [48 <./PRSI-eps-converted-to.pdf> <./SSSIPR-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `' on page 49 undefined on input line 870.
+
+Package epstopdf Info: Source file: <PRPD.eps>
+(epstopdf)                    date: 2020-02-25 10:19:24
+(epstopdf)                    size: 47160 bytes
+(epstopdf)             Output file: <PRPD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-25 10:24:44
+(epstopdf)                    size: 19171 bytes
+(epstopdf)             Command: <epstopdf --outfile=PRPD-eps-converted-to.pdf P
+RPD.eps>
+(epstopdf)             \includegraphics on input line 877.
+Package epstopdf Info: Output file is already uptodate.
+<PRPD-eps-converted-to.pdf, id=784, 359.3425pt x 223.83624pt>
+File: PRPD-eps-converted-to.pdf Graphic file (type pdf)
+<use PRPD-eps-converted-to.pdf>
+Package pdftex.def Info: PRPD-eps-converted-to.pdf  used on input line 877.
+(pdftex.def)             Requested size: 180.32709pt x 112.3277pt.
+Package epstopdf Info: Source file: <PRDPD.eps>
+(epstopdf)                    date: 2020-02-25 10:19:24
+(epstopdf)                    size: 20976 bytes
+(epstopdf)             Output file: <PRDPD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-25 10:24:44
+(epstopdf)                    size: 8902 bytes
+(epstopdf)             Command: <epstopdf --outfile=PRDPD-eps-converted-to.pdf 
+PRDPD.eps>
+(epstopdf)             \includegraphics on input line 882.
+Package epstopdf Info: Output file is already uptodate.
+<PRDPD-eps-converted-to.pdf, id=785, 359.3425pt x 223.83624pt>
+File: PRDPD-eps-converted-to.pdf Graphic file (type pdf)
+<use PRDPD-eps-converted-to.pdf>
+Package pdftex.def Info: PRDPD-eps-converted-to.pdf  used on input line 882.
+(pdftex.def)             Requested size: 180.32709pt x 112.3277pt.
+
+Overfull \hbox (10.05757pt too wide) in alignment at lines 888--892
+ [][][] []
+ []
+
+Package epstopdf Info: Source file: <PRDEL.eps>
+(epstopdf)                    date: 2020-02-25 07:50:32
+(epstopdf)                    size: 62879 bytes
+(epstopdf)             Output file: <PRDEL-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-25 07:52:02
+(epstopdf)                    size: 27494 bytes
+(epstopdf)             Command: <epstopdf --outfile=PRDEL-eps-converted-to.pdf 
+PRDEL.eps>
+(epstopdf)             \includegraphics on input line 901.
+Package epstopdf Info: Output file is already uptodate.
+<PRDEL-eps-converted-to.pdf, id=786, 361.35pt x 215.80624pt>
+File: PRDEL-eps-converted-to.pdf Graphic file (type pdf)
+<use PRDEL-eps-converted-to.pdf>
+Package pdftex.def Info: PRDEL-eps-converted-to.pdf  used on input line 901.
+(pdftex.def)             Requested size: 180.32709pt x 107.69539pt.
+Package epstopdf Info: Source file: <EDSD.eps>
+(epstopdf)                    date: 2020-02-25 07:09:22
+(epstopdf)                    size: 34182 bytes
+(epstopdf)             Output file: <EDSD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-25 07:12:36
+(epstopdf)                    size: 14515 bytes
+(epstopdf)             Command: <epstopdf --outfile=EDSD-eps-converted-to.pdf E
+DSD.eps>
+(epstopdf)             \includegraphics on input line 906.
+Package epstopdf Info: Output file is already uptodate.
+<EDSD-eps-converted-to.pdf, id=787, 359.3425pt x 226.8475pt>
+File: EDSD-eps-converted-to.pdf Graphic file (type pdf)
+<use EDSD-eps-converted-to.pdf>
+Package pdftex.def Info: EDSD-eps-converted-to.pdf  used on input line 906.
+(pdftex.def)             Requested size: 180.32709pt x 113.83884pt.
+
+Underfull \vbox (badness 1210) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 916.
+LaTeX Info: Redefining \% on input line 916.
+ [49]
+LaTeX Info: Redefining \. on input line 916.
+LaTeX Info: Redefining \% on input line 916.
+
+[50 <./PRPD-eps-converted-to.pdf> <./PRDPD-eps-converted-to.pdf> <./PRDEL-eps-c
+onverted-to.pdf> <./EDSD-eps-converted-to.pdf>]
+Overfull \hbox (2.8563pt too wide) detected at line 933
+[]\OML/cmm/m/it/12 u[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k; r\OT1/cmr/m/n/12 ) =
+ \OML/cmm/m/it/12 A[] []F[] [] e[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 B[] []F[]
+ [] re[];     a[] \OT1/cmr/m/n/12 = []
+ []
+
+
+Underfull \vbox (badness 6725) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 952.
+LaTeX Info: Redefining \% on input line 952.
+ [51]
+Package epstopdf Info: Source file: <TRHO-Figure.eps>
+(epstopdf)                    date: 2019-11-29 13:34:04
+(epstopdf)                    size: 393581 bytes
+(epstopdf)             Output file: <TRHO-Figure-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:46
+(epstopdf)                    size: 15943 bytes
+(epstopdf)             Command: <epstopdf --outfile=TRHO-Figure-eps-converted-t
+o.pdf TRHO-Figure.eps>
+(epstopdf)             \includegraphics on input line 991.
+Package epstopdf Info: Output file is already uptodate.
+<TRHO-Figure-eps-converted-to.pdf, id=851, 260.975pt x 165.61874pt>
+File: TRHO-Figure-eps-converted-to.pdf Graphic file (type pdf)
+<use TRHO-Figure-eps-converted-to.pdf>
+Package pdftex.def Info: TRHO-Figure-eps-converted-to.pdf  used on input line 9
+91.
+(pdftex.def)             Requested size: 180.32709pt x 114.43878pt.
+Package epstopdf Info: Source file: <Scattering.eps>
+(epstopdf)                    date: 2019-12-03 18:24:04
+(epstopdf)                    size: 34409 bytes
+(epstopdf)             Output file: <Scattering-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:22:46
+(epstopdf)                    size: 14362 bytes
+(epstopdf)             Command: <epstopdf --outfile=Scattering-eps-converted-to
+.pdf Scattering.eps>
+(epstopdf)             \includegraphics on input line 996.
+Package epstopdf Info: Output file is already uptodate.
+<Scattering-eps-converted-to.pdf, id=852, 359.3425pt x 221.82875pt>
+File: Scattering-eps-converted-to.pdf Graphic file (type pdf)
+<use Scattering-eps-converted-to.pdf>
+Package pdftex.def Info: Scattering-eps-converted-to.pdf  used on input line 99
+6.
+(pdftex.def)             Requested size: 180.32709pt x 111.32027pt.
+LaTeX Info: Redefining \. on input line 1012.
+LaTeX Info: Redefining \% on input line 1012.
+
+[52]
+Overfull \hbox (75.82513pt too wide) in alignment at lines 1015--1018
+ [][][] []
+ []
+
+LaTeX Info: Redefining \. on input line 1037.
+LaTeX Info: Redefining \% on input line 1037.
+[53 <./TRHO-Figure-eps-converted-to.pdf> <./Scattering-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1070.
+LaTeX Info: Redefining \% on input line 1070.
+ [54]
+Package epstopdf Info: Source file: <Bound_States.eps>
+(epstopdf)                    date: 2019-12-10 11:58:24
+(epstopdf)                    size: 29779 bytes
+(epstopdf)             Output file: <Bound_States-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 11:59:30
+(epstopdf)                    size: 11946 bytes
+(epstopdf)             Command: <epstopdf --outfile=Bound_States-eps-converted-
+to.pdf Bound_States.eps>
+(epstopdf)             \includegraphics on input line 1079.
+Package epstopdf Info: Output file is already uptodate.
+<Bound_States-eps-converted-to.pdf, id=895, 705.63625pt x 437.635pt>
+File: Bound_States-eps-converted-to.pdf Graphic file (type pdf)
+<use Bound_States-eps-converted-to.pdf>
+Package pdftex.def Info: Bound_States-eps-converted-to.pdf  used on input line 
+1079.
+(pdftex.def)             Requested size: 176.03592pt x 109.17476pt.
+Package epstopdf Info: Source file: <Scattering_DT.eps>
+(epstopdf)                    date: 2019-12-10 17:43:08
+(epstopdf)                    size: 266129 bytes
+(epstopdf)             Output file: <Scattering_DT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 17:43:46
+(epstopdf)                    size: 8976 bytes
+(epstopdf)             Command: <epstopdf --outfile=Scattering_DT-eps-converted
+-to.pdf Scattering_DT.eps>
+(epstopdf)             \includegraphics on input line 1083.
+Package epstopdf Info: Output file is already uptodate.
+<Scattering_DT-eps-converted-to.pdf, id=896, 258.9675pt x 159.59625pt>
+File: Scattering_DT-eps-converted-to.pdf Graphic file (type pdf)
+<use Scattering_DT-eps-converted-to.pdf>
+Package pdftex.def Info: Scattering_DT-eps-converted-to.pdf  used on input line
+ 1083.
+(pdftex.def)             Requested size: 176.03592pt x 108.49234pt.
+Package epstopdf Info: Source file: <BIC.eps>
+(epstopdf)                    date: 2019-12-10 17:43:14
+(epstopdf)                    size: 269590 bytes
+(epstopdf)             Output file: <BIC-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-10 17:43:48
+(epstopdf)                    size: 9484 bytes
+(epstopdf)             Command: <epstopdf --outfile=BIC-eps-converted-to.pdf BI
+C.eps>
+(epstopdf)             \includegraphics on input line 1088.
+Package epstopdf Info: Output file is already uptodate.
+<BIC-eps-converted-to.pdf, id=897, 258.9675pt x 161.60374pt>
+File: BIC-eps-converted-to.pdf Graphic file (type pdf)
+<use BIC-eps-converted-to.pdf>
+Package pdftex.def Info: BIC-eps-converted-to.pdf  used on input line 1088.
+(pdftex.def)             Requested size: 176.03592pt x 109.85703pt.
+
+
+LaTeX Warning: Reference `' on page 55 undefined on input line 1092.
+
+Package epstopdf Info: Source file: <Potential.eps>
+(epstopdf)                    date: 2019-12-05 11:26:58
+(epstopdf)                    size: 19995 bytes
+(epstopdf)             Output file: <Potential-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-05 11:27:38
+(epstopdf)                    size: 8702 bytes
+(epstopdf)             Command: <epstopdf --outfile=Potential-eps-converted-to.
+pdf Potential.eps>
+(epstopdf)             \includegraphics on input line 1099.
+Package epstopdf Info: Output file is already uptodate.
+<Potential-eps-converted-to.pdf, id=898, 359.3425pt x 225.84375pt>
+File: Potential-eps-converted-to.pdf Graphic file (type pdf)
+<use Potential-eps-converted-to.pdf>
+Package pdftex.def Info: Potential-eps-converted-to.pdf  used on input line 109
+9.
+(pdftex.def)             Requested size: 176.03592pt x 110.64027pt.
+Package epstopdf Info: Source file: <Potential_discontinuity.eps>
+(epstopdf)                    date: 2019-12-05 11:27:02
+(epstopdf)                    size: 14930 bytes
+(epstopdf)             Output file: <Potential_discontinuity-eps-converted-to.p
+df>
+(epstopdf)                    date: 2019-12-05 11:27:40
+(epstopdf)                    size: 6697 bytes
+(epstopdf)             Command: <epstopdf --outfile=Potential_discontinuity-eps
+-converted-to.pdf Potential_discontinuity.eps>
+(epstopdf)             \includegraphics on input line 1104.
+Package epstopdf Info: Output file is already uptodate.
+<Potential_discontinuity-eps-converted-to.pdf, id=899, 359.3425pt x 226.8475pt>
+
+File: Potential_discontinuity-eps-converted-to.pdf Graphic file (type pdf)
+<use Potential_discontinuity-eps-converted-to.pdf>
+Package pdftex.def Info: Potential_discontinuity-eps-converted-to.pdf  used on 
+input line 1104.
+(pdftex.def)             Requested size: 176.03592pt x 111.132pt.
+
+LaTeX Warning: Reference `' on page 55 undefined on input line 1108.
+
+<CFOATD.png, id=900, 361.35pt x 231.86626pt>
+File: CFOATD.png Graphic file (type png)
+<use CFOATD.png>
+Package pdftex.def Info: CFOATD.png  used on input line 1114.
+(pdftex.def)             Requested size: 176.03592pt x 112.95738pt.
+Package epstopdf Info: Source file: <SROATD.eps>
+(epstopdf)                    date: 2020-02-25 16:46:22
+(epstopdf)                    size: 15527 bytes
+(epstopdf)             Output file: <SROATD-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-25 16:49:12
+(epstopdf)                    size: 6626 bytes
+(epstopdf)             Command: <epstopdf --outfile=SROATD-eps-converted-to.pdf
+ SROATD.eps>
+(epstopdf)             \includegraphics on input line 1119.
+Package epstopdf Info: Output file is already uptodate.
+<SROATD-eps-converted-to.pdf, id=901, 361.35pt x 205.76875pt>
+File: SROATD-eps-converted-to.pdf Graphic file (type pdf)
+<use SROATD-eps-converted-to.pdf>
+Package pdftex.def Info: SROATD-eps-converted-to.pdf  used on input line 1119.
+(pdftex.def)             Requested size: 176.03592pt x 100.24356pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1125.
+LaTeX Info: Redefining \% on input line 1125.
+ [55 <./Bound_States-eps-converted-to.pdf> <./Scattering_DT-eps-converted-to.pd
+f> <./BIC-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 1125.
+LaTeX Info: Redefining \% on input line 1125.
+ [56 <./Potential-eps-converted-to.pdf> <./Potential_discontinuity-eps-converte
+d-to.pdf> <./CFOATD.png (PNG copy)> <./SROATD-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `FOAP' on page 57 undefined on input line 1154.
+
+
+Underfull \vbox (badness 5388) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1164.
+LaTeX Info: Redefining \% on input line 1164.
+ [57]
+Package epstopdf Info: Source file: <POATTDP.eps>
+(epstopdf)                    date: 2020-02-11 15:52:58
+(epstopdf)                    size: 16028 bytes
+(epstopdf)             Output file: <POATTDP-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-02-11 15:57:00
+(epstopdf)                    size: 7334 bytes
+(epstopdf)             Command: <epstopdf --outfile=POATTDP-eps-converted-to.pd
+f POATTDP.eps>
+(epstopdf)             \includegraphics on input line 1193.
+Package epstopdf Info: Output file is already uptodate.
+<POATTDP-eps-converted-to.pdf, id=979, 359.3425pt x 223.83624pt>
+File: POATTDP-eps-converted-to.pdf Graphic file (type pdf)
+<use POATTDP-eps-converted-to.pdf>
+Package pdftex.def Info: POATTDP-eps-converted-to.pdf  used on input line 1193.
+
+(pdftex.def)             Requested size: 176.03592pt x 109.6568pt.
+Package epstopdf Info: Source file: <BICTDPOAT.eps>
+(epstopdf)                    date: 2020-03-03 01:53:50
+(epstopdf)                    size: 43916 bytes
+(epstopdf)             Output file: <BICTDPOAT-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-03 01:55:14
+(epstopdf)                    size: 18007 bytes
+(epstopdf)             Command: <epstopdf --outfile=BICTDPOAT-eps-converted-to.
+pdf BICTDPOAT.eps>
+(epstopdf)             \includegraphics on input line 1198.
+Package epstopdf Info: Output file is already uptodate.
+<BICTDPOAT-eps-converted-to.pdf, id=980, 359.3425pt x 221.82875pt>
+File: BICTDPOAT-eps-converted-to.pdf Graphic file (type pdf)
+<use BICTDPOAT-eps-converted-to.pdf>
+Package pdftex.def Info: BICTDPOAT-eps-converted-to.pdf  used on input line 119
+8.
+(pdftex.def)             Requested size: 176.03592pt x 108.67332pt.
+Package epstopdf Info: Source file: <CFOATDP.eps>
+(epstopdf)                    date: 2020-02-27 18:30:34
+(epstopdf)                    size: 28271 bytes
+(epstopdf)             Output file: <CFOATDP-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-03 01:44:26
+(epstopdf)                    size: 11716 bytes
+(epstopdf)             Command: <epstopdf --outfile=CFOATDP-eps-converted-to.pd
+f CFOATDP.eps>
+(epstopdf)             \includegraphics on input line 1203.
+Package epstopdf Info: Output file is already uptodate.
+<CFOATDP-eps-converted-to.pdf, id=981, 359.3425pt x 224.84pt>
+File: CFOATDP-eps-converted-to.pdf Graphic file (type pdf)
+<use CFOATDP-eps-converted-to.pdf>
+Package pdftex.def Info: CFOATDP-eps-converted-to.pdf  used on input line 1203.
+
+(pdftex.def)             Requested size: 176.03592pt x 110.14854pt.
+Package epstopdf Info: Source file: <SRDPOAT.eps>
+(epstopdf)                    date: 2020-03-03 01:31:56
+(epstopdf)                    size: 17707 bytes
+(epstopdf)             Output file: <SRDPOAT-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-03 01:40:30
+(epstopdf)                    size: 7670 bytes
+(epstopdf)             Command: <epstopdf --outfile=SRDPOAT-eps-converted-to.pd
+f SRDPOAT.eps>
+(epstopdf)             \includegraphics on input line 1208.
+Package epstopdf Info: Output file is already uptodate.
+<SRDPOAT-eps-converted-to.pdf, id=982, 361.35pt x 205.76875pt>
+File: SRDPOAT-eps-converted-to.pdf Graphic file (type pdf)
+<use SRDPOAT-eps-converted-to.pdf>
+Package pdftex.def Info: SRDPOAT-eps-converted-to.pdf  used on input line 1208.
+
+(pdftex.def)             Requested size: 176.03592pt x 100.24356pt.
+
+Underfull \hbox (badness 1838) in paragraph at lines 1209--1209
+[]\OT1/cmr/m/n/12 Figura 4.12: |[] (a) Po-ten-cial Dar-boux - de-for-ma-do par-
+cial-men-te pa-ra $\OML/cmm/m/it/12 q \OT1/cmr/m/n/12 =
+ []
+
+)
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [58]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [59 <./POATTDP-eps-converted-to.pdf> <./BICTDPOAT-eps-converted-to.pdf> <./CFO
+ATDP-eps-converted-to.pdf> <./SRDPOAT-eps-converted-to.pdf>]
+\openout2 = `conclu.aux'.
+
+ (conclu.tex
+Cap\'{\i }tulo 5.
+) [60
+
+
+
+] (tesis.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+ [61
+
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+ (tesis.aux (titlepage.aux)
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ (gracias.aux) (intro.aux)
+(TD.aux) (Potenciales_CA.aux) (Potenciales.aux) (conclu.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+Package rerunfilecheck Info: File `tesis.out' has not changed.
+(rerunfilecheck)             Checksum: F210CF2C6EE3F0F2BB6B8BB4855CEA13;2514.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+ ) 
+Here is how much of TeX's memory you used:
+ 10844 strings out of 480930
+ 167229 string characters out of 2897884
+ 457403 words of memory out of 3000000
+ 26233 multiletter control sequences out of 15000+200000
+ 544578 words of font info for 70 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,14n,53p,975b,668s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Leo Lopez/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/User
+s/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Leo Lopez/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Leo Lopez/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Leo Lopez/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Leo Lopez/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/U
+sers/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Leo Lopez/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on tesis.pdf (61 pages, 883089 bytes).
+PDF statistics:
+ 1138 PDF objects out of 1200 (max. 8388607)
+ 208 named destinations out of 1000 (max. 500000)
+ 463 words of extra memory for PDF output out of 10000 (max. 10000000)
+

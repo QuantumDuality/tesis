@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Agradecimientos}{2}{section*.1}%
+\contentsline {chapter}{\numberline {1}Introducci'on}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Resumen}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Estados ligados en el continuo}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Potenciales de von Neumann Wigner}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Método de von Neumann Wigner}{8}{subsection.1.3.1}%
+\contentsline {chapter}{\numberline {2}Transformación de Darboux}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Esquema general}{13}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Ejemplo: Oscilador armónico}{15}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Transformación de Darboux de orden superior}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Transformación de Darboux degenerada}{20}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Potenciales de corto alcance}{23}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Estados ligados}{24}{subsection.3.0.1}%
+\contentsline {subsection}{\numberline {3.0.2}Estados de dispresión}{26}{subsection.3.0.2}%
+\contentsline {chapter}{\numberline {4}Potenciales de corto alcance Darboux - deformados}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Problema de partícula libre}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Potenciales de corto alcance Darboux - deformados}{30}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Comportamiento del sistema deformado en el origen}{32}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Potencial radial Darboux - deformado}{39}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Estados ligados}{39}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Espectro de dispersión}{40}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Estado ligado en el continuo}{41}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Perturbación delta}{44}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Pozo radial}{47}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Estados ligados}{47}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Estados de dispersión.}{48}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Sistema deformado}{49}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Oscilador armónico truncado}{51}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Estados ligados}{52}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Estados de dispersión}{52}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Oscilador armónico truncado deformado}{53}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Deformación parcial}{57}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{60}{chapter.5}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{61}{section*.24}%
