@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.2)  3 MAY 2020 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.2)  5 MAY 2020 22:46
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -645,7 +645,7 @@ LaTeX Warning: Label `fig:c' multiply defined.
 
 LaTeX Warning: Label `sub@fig:c' multiply defined.
 
-) (conclu.aux))
+) (Resonancias.aux) (conclu.aux))
 \openout1 = `tesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
@@ -827,7 +827,7 @@ Package epstopdf Info: Source file: <WP.eps>
 eps>
 (epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
-<WP-eps-converted-to.pdf, id=220, 321.2pt x 182.6825pt>
+<WP-eps-converted-to.pdf, id=230, 321.2pt x 182.6825pt>
 File: WP-eps-converted-to.pdf Graphic file (type pdf)
 <use WP-eps-converted-to.pdf>
 Package pdftex.def Info: WP-eps-converted-to.pdf  used on input line 73.
@@ -848,7 +848,7 @@ Package epstopdf Info: Source file: <Ex-Pot.eps>
  Ex-Pot.eps>
 (epstopdf)             \includegraphics on input line 91.
 Package epstopdf Info: Output file is already uptodate.
-<Ex-Pot-eps-converted-to.pdf, id=245, 312.16624pt x 176.66pt>
+<Ex-Pot-eps-converted-to.pdf, id=255, 312.16624pt x 176.66pt>
 File: Ex-Pot-eps-converted-to.pdf Graphic file (type pdf)
 <use Ex-Pot-eps-converted-to.pdf>
 Package pdftex.def Info: Ex-Pot-eps-converted-to.pdf  used on input line 91.
@@ -879,7 +879,7 @@ Package epstopdf Info: Source file: <vNW-Figure.eps>
 .pdf vNW-Figure.eps>
 (epstopdf)             \includegraphics on input line 220.
 Package epstopdf Info: Output file is already uptodate.
-<vNW-Figure-eps-converted-to.pdf, id=282, 311.1625pt x 182.6825pt>
+<vNW-Figure-eps-converted-to.pdf, id=292, 311.1625pt x 182.6825pt>
 File: vNW-Figure-eps-converted-to.pdf Graphic file (type pdf)
 <use vNW-Figure-eps-converted-to.pdf>
 Package pdftex.def Info: vNW-Figure-eps-converted-to.pdf  used on input line 22
@@ -923,7 +923,7 @@ Package epstopdf Info: Source file: <OA-Fig.eps>
  OA-Fig.eps>
 (epstopdf)             \includegraphics on input line 172.
 Package epstopdf Info: Output file is already uptodate.
-<OA-Fig-eps-converted-to.pdf, id=335, 312.16624pt x 189.70876pt>
+<OA-Fig-eps-converted-to.pdf, id=345, 312.16624pt x 189.70876pt>
 File: OA-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use OA-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: OA-Fig-eps-converted-to.pdf  used on input line 172.
@@ -938,7 +938,7 @@ Package epstopdf Info: Source file: <TD1OA-Fig.eps>
 pdf TD1OA-Fig.eps>
 (epstopdf)             \includegraphics on input line 177.
 Package epstopdf Info: Output file is already uptodate.
-<TD1OA-Fig-eps-converted-to.pdf, id=336, 323.2075pt x 186.6975pt>
+<TD1OA-Fig-eps-converted-to.pdf, id=346, 323.2075pt x 186.6975pt>
 File: TD1OA-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use TD1OA-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: TD1OA-Fig-eps-converted-to.pdf  used on input line 177
@@ -964,7 +964,7 @@ Package epstopdf Info: Source file: <TD2OA0-Fig.eps>
 .pdf TD2OA0-Fig.eps>
 (epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
-<TD2OA0-Fig-eps-converted-to.pdf, id=381, 323.2075pt x 182.6825pt>
+<TD2OA0-Fig-eps-converted-to.pdf, id=391, 323.2075pt x 182.6825pt>
 File: TD2OA0-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use TD2OA0-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: TD2OA0-Fig-eps-converted-to.pdf  used on input line 22
@@ -980,7 +980,7 @@ Package epstopdf Info: Source file: <TD2OA1-Fig.eps>
 .pdf TD2OA1-Fig.eps>
 (epstopdf)             \includegraphics on input line 230.
 Package epstopdf Info: Output file is already uptodate.
-<TD2OA1-Fig-eps-converted-to.pdf, id=382, 323.2075pt x 182.6825pt>
+<TD2OA1-Fig-eps-converted-to.pdf, id=392, 323.2075pt x 182.6825pt>
 File: TD2OA1-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use TD2OA1-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: TD2OA1-Fig-eps-converted-to.pdf  used on input line 23
@@ -996,7 +996,7 @@ Package epstopdf Info: Source file: <TD2OA2-Fig.eps>
 .pdf TD2OA2-Fig.eps>
 (epstopdf)             \includegraphics on input line 240.
 Package epstopdf Info: Output file is already uptodate.
-<TD2OA2-Fig-eps-converted-to.pdf, id=385, 359.3425pt x 237.88875pt>
+<TD2OA2-Fig-eps-converted-to.pdf, id=395, 359.3425pt x 237.88875pt>
 File: TD2OA2-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use TD2OA2-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: TD2OA2-Fig-eps-converted-to.pdf  used on input line 24
@@ -1012,7 +1012,7 @@ Package epstopdf Info: Source file: <TD2OA3-Fig.eps>
 .pdf TD2OA3-Fig.eps>
 (epstopdf)             \includegraphics on input line 245.
 Package epstopdf Info: Output file is already uptodate.
-<TD2OA3-Fig-eps-converted-to.pdf, id=386, 359.3425pt x 237.88875pt>
+<TD2OA3-Fig-eps-converted-to.pdf, id=396, 359.3425pt x 237.88875pt>
 File: TD2OA3-Fig-eps-converted-to.pdf Graphic file (type pdf)
 <use TD2OA3-Fig-eps-converted-to.pdf>
 Package pdftex.def Info: TD2OA3-Fig-eps-converted-to.pdf  used on input line 24
@@ -1089,7 +1089,7 @@ Package epstopdf Info: Source file: <PPLTD.eps>
 PPLTD.eps>
 (epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
-<PPLTD-eps-converted-to.pdf, id=519, 361.35pt x 219.82124pt>
+<PPLTD-eps-converted-to.pdf, id=529, 361.35pt x 219.82124pt>
 File: PPLTD-eps-converted-to.pdf Graphic file (type pdf)
 <use PPLTD-eps-converted-to.pdf>
 Package pdftex.def Info: PPLTD-eps-converted-to.pdf  used on input line 130.
@@ -1104,7 +1104,7 @@ Package epstopdf Info: Source file: <PFOPLTD.eps>
 f PFOPLTD.eps>
 (epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
-<PFOPLTD-eps-converted-to.pdf, id=520, 361.35pt x 214.8025pt>
+<PFOPLTD-eps-converted-to.pdf, id=530, 361.35pt x 214.8025pt>
 File: PFOPLTD-eps-converted-to.pdf Graphic file (type pdf)
 <use PFOPLTD-eps-converted-to.pdf>
 Package pdftex.def Info: PFOPLTD-eps-converted-to.pdf  used on input line 135.
@@ -1130,7 +1130,7 @@ Package epstopdf Info: Source file: <Differentiable_transformation_function.eps
 on_function-eps-converted-to.pdf Differentiable_transformation_function.eps>
 (epstopdf)             \includegraphics on input line 182.
 Package epstopdf Info: Output file is already uptodate.
-<Differentiable_transformation_function-eps-converted-to.pdf, id=562, 831.105pt
+<Differentiable_transformation_function-eps-converted-to.pdf, id=572, 831.105pt
  x 513.92pt>
 File: Differentiable_transformation_function-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -1151,7 +1151,7 @@ mation_function-eps-converted-to.pdf Not_Differentiable_transformation_function
 .eps>
 (epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
-<Not_Differentiable_transformation_function-eps-converted-to.pdf, id=563, 818.0
+<Not_Differentiable_transformation_function-eps-converted-to.pdf, id=573, 818.0
 5624pt x 507.8975pt>
 File: Not_Differentiable_transformation_function-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -1208,7 +1208,7 @@ Package epstopdf Info: Source file: <PTDCL.eps>
 PTDCL.eps>
 (epstopdf)             \includegraphics on input line 372.
 Package epstopdf Info: Output file is already uptodate.
-<PTDCL-eps-converted-to.pdf, id=608, 359.3425pt x 223.83624pt>
+<PTDCL-eps-converted-to.pdf, id=618, 359.3425pt x 223.83624pt>
 File: PTDCL-eps-converted-to.pdf Graphic file (type pdf)
 <use PTDCL-eps-converted-to.pdf>
 Package pdftex.def Info: PTDCL-eps-converted-to.pdf  used on input line 372.
@@ -1223,7 +1223,7 @@ Package epstopdf Info: Source file: <FOOTDCL.eps>
 f FOOTDCL.eps>
 (epstopdf)             \includegraphics on input line 377.
 Package epstopdf Info: Output file is already uptodate.
-<FOOTDCL-eps-converted-to.pdf, id=609, 359.3425pt x 229.85875pt>
+<FOOTDCL-eps-converted-to.pdf, id=619, 359.3425pt x 229.85875pt>
 File: FOOTDCL-eps-converted-to.pdf Graphic file (type pdf)
 <use FOOTDCL-eps-converted-to.pdf>
 Package pdftex.def Info: FOOTDCL-eps-converted-to.pdf  used on input line 377.
@@ -1244,7 +1244,7 @@ Package epstopdf Info: Source file: <PPOATTDe.eps>
 df PPOATTDe.eps>
 (epstopdf)             \includegraphics on input line 404.
 Package epstopdf Info: Output file is already uptodate.
-<PPOATTDe-eps-converted-to.pdf, id=616, 361.35pt x 216.81pt>
+<PPOATTDe-eps-converted-to.pdf, id=626, 361.35pt x 216.81pt>
 File: PPOATTDe-eps-converted-to.pdf Graphic file (type pdf)
 <use PPOATTDe-eps-converted-to.pdf>
 Package pdftex.def Info: PPOATTDe-eps-converted-to.pdf  used on input line 404.
@@ -1260,7 +1260,7 @@ Package epstopdf Info: Source file: <PPOATTDo.eps>
 df PPOATTDo.eps>
 (epstopdf)             \includegraphics on input line 409.
 Package epstopdf Info: Output file is already uptodate.
-<PPOATTDo-eps-converted-to.pdf, id=617, 361.35pt x 216.81pt>
+<PPOATTDo-eps-converted-to.pdf, id=627, 361.35pt x 216.81pt>
 File: PPOATTDo-eps-converted-to.pdf Graphic file (type pdf)
 <use PPOATTDo-eps-converted-to.pdf>
 Package pdftex.def Info: PPOATTDo-eps-converted-to.pdf  used on input line 409.
@@ -1276,7 +1276,7 @@ Package epstopdf Info: Source file: <FOTDe.eps>
 FOTDe.eps>
 (epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
-<FOTDe-eps-converted-to.pdf, id=618, 359.3425pt x 226.8475pt>
+<FOTDe-eps-converted-to.pdf, id=628, 359.3425pt x 226.8475pt>
 File: FOTDe-eps-converted-to.pdf Graphic file (type pdf)
 <use FOTDe-eps-converted-to.pdf>
 Package pdftex.def Info: FOTDe-eps-converted-to.pdf  used on input line 414.
@@ -1291,7 +1291,7 @@ Package epstopdf Info: Source file: <FOTDo.eps>
 FOTDo.eps>
 (epstopdf)             \includegraphics on input line 419.
 Package epstopdf Info: Output file is already uptodate.
-<FOTDo-eps-converted-to.pdf, id=619, 359.3425pt x 222.8325pt>
+<FOTDo-eps-converted-to.pdf, id=629, 359.3425pt x 222.8325pt>
 File: FOTDo-eps-converted-to.pdf Graphic file (type pdf)
 <use FOTDo-eps-converted-to.pdf>
 Package pdftex.def Info: FOTDo-eps-converted-to.pdf  used on input line 419.
@@ -1351,7 +1351,7 @@ Package epstopdf Info: Source file: <PRSI.eps>
 RSI.eps>
 (epstopdf)             \includegraphics on input line 817.
 Package epstopdf Info: Output file is already uptodate.
-<PRSI-eps-converted-to.pdf, id=755, 359.3425pt x 221.82875pt>
+<PRSI-eps-converted-to.pdf, id=765, 359.3425pt x 221.82875pt>
 File: PRSI-eps-converted-to.pdf Graphic file (type pdf)
 <use PRSI-eps-converted-to.pdf>
 Package pdftex.def Info: PRSI-eps-converted-to.pdf  used on input line 817.
@@ -1366,7 +1366,7 @@ Package epstopdf Info: Source file: <SSSIPR.eps>
  SSSIPR.eps>
 (epstopdf)             \includegraphics on input line 822.
 Package epstopdf Info: Output file is already uptodate.
-<SSSIPR-eps-converted-to.pdf, id=756, 359.3425pt x 221.82875pt>
+<SSSIPR-eps-converted-to.pdf, id=766, 359.3425pt x 221.82875pt>
 File: SSSIPR-eps-converted-to.pdf Graphic file (type pdf)
 <use SSSIPR-eps-converted-to.pdf>
 Package pdftex.def Info: SSSIPR-eps-converted-to.pdf  used on input line 822.
@@ -1387,7 +1387,7 @@ Package epstopdf Info: Source file: <PRPD.eps>
 RPD.eps>
 (epstopdf)             \includegraphics on input line 877.
 Package epstopdf Info: Output file is already uptodate.
-<PRPD-eps-converted-to.pdf, id=784, 359.3425pt x 223.83624pt>
+<PRPD-eps-converted-to.pdf, id=794, 359.3425pt x 223.83624pt>
 File: PRPD-eps-converted-to.pdf Graphic file (type pdf)
 <use PRPD-eps-converted-to.pdf>
 Package pdftex.def Info: PRPD-eps-converted-to.pdf  used on input line 877.
@@ -1402,7 +1402,7 @@ Package epstopdf Info: Source file: <PRDPD.eps>
 PRDPD.eps>
 (epstopdf)             \includegraphics on input line 882.
 Package epstopdf Info: Output file is already uptodate.
-<PRDPD-eps-converted-to.pdf, id=785, 359.3425pt x 223.83624pt>
+<PRDPD-eps-converted-to.pdf, id=795, 359.3425pt x 223.83624pt>
 File: PRDPD-eps-converted-to.pdf Graphic file (type pdf)
 <use PRDPD-eps-converted-to.pdf>
 Package pdftex.def Info: PRDPD-eps-converted-to.pdf  used on input line 882.
@@ -1422,7 +1422,7 @@ Package epstopdf Info: Source file: <PRDEL.eps>
 PRDEL.eps>
 (epstopdf)             \includegraphics on input line 901.
 Package epstopdf Info: Output file is already uptodate.
-<PRDEL-eps-converted-to.pdf, id=786, 361.35pt x 215.80624pt>
+<PRDEL-eps-converted-to.pdf, id=796, 361.35pt x 215.80624pt>
 File: PRDEL-eps-converted-to.pdf Graphic file (type pdf)
 <use PRDEL-eps-converted-to.pdf>
 Package pdftex.def Info: PRDEL-eps-converted-to.pdf  used on input line 901.
@@ -1437,7 +1437,7 @@ Package epstopdf Info: Source file: <EDSD.eps>
 DSD.eps>
 (epstopdf)             \includegraphics on input line 906.
 Package epstopdf Info: Output file is already uptodate.
-<EDSD-eps-converted-to.pdf, id=787, 359.3425pt x 226.8475pt>
+<EDSD-eps-converted-to.pdf, id=797, 359.3425pt x 226.8475pt>
 File: EDSD-eps-converted-to.pdf Graphic file (type pdf)
 <use EDSD-eps-converted-to.pdf>
 Package pdftex.def Info: EDSD-eps-converted-to.pdf  used on input line 906.
@@ -1475,7 +1475,7 @@ Package epstopdf Info: Source file: <TRHO-Figure.eps>
 o.pdf TRHO-Figure.eps>
 (epstopdf)             \includegraphics on input line 991.
 Package epstopdf Info: Output file is already uptodate.
-<TRHO-Figure-eps-converted-to.pdf, id=851, 260.975pt x 165.61874pt>
+<TRHO-Figure-eps-converted-to.pdf, id=861, 260.975pt x 165.61874pt>
 File: TRHO-Figure-eps-converted-to.pdf Graphic file (type pdf)
 <use TRHO-Figure-eps-converted-to.pdf>
 Package pdftex.def Info: TRHO-Figure-eps-converted-to.pdf  used on input line 9
@@ -1491,7 +1491,7 @@ Package epstopdf Info: Source file: <Scattering.eps>
 .pdf Scattering.eps>
 (epstopdf)             \includegraphics on input line 996.
 Package epstopdf Info: Output file is already uptodate.
-<Scattering-eps-converted-to.pdf, id=852, 359.3425pt x 221.82875pt>
+<Scattering-eps-converted-to.pdf, id=862, 359.3425pt x 221.82875pt>
 File: Scattering-eps-converted-to.pdf Graphic file (type pdf)
 <use Scattering-eps-converted-to.pdf>
 Package pdftex.def Info: Scattering-eps-converted-to.pdf  used on input line 99
@@ -1523,7 +1523,7 @@ Package epstopdf Info: Source file: <Bound_States.eps>
 to.pdf Bound_States.eps>
 (epstopdf)             \includegraphics on input line 1079.
 Package epstopdf Info: Output file is already uptodate.
-<Bound_States-eps-converted-to.pdf, id=895, 705.63625pt x 437.635pt>
+<Bound_States-eps-converted-to.pdf, id=905, 705.63625pt x 437.635pt>
 File: Bound_States-eps-converted-to.pdf Graphic file (type pdf)
 <use Bound_States-eps-converted-to.pdf>
 Package pdftex.def Info: Bound_States-eps-converted-to.pdf  used on input line 
@@ -1539,7 +1539,7 @@ Package epstopdf Info: Source file: <Scattering_DT.eps>
 -to.pdf Scattering_DT.eps>
 (epstopdf)             \includegraphics on input line 1083.
 Package epstopdf Info: Output file is already uptodate.
-<Scattering_DT-eps-converted-to.pdf, id=896, 258.9675pt x 159.59625pt>
+<Scattering_DT-eps-converted-to.pdf, id=906, 258.9675pt x 159.59625pt>
 File: Scattering_DT-eps-converted-to.pdf Graphic file (type pdf)
 <use Scattering_DT-eps-converted-to.pdf>
 Package pdftex.def Info: Scattering_DT-eps-converted-to.pdf  used on input line
@@ -1555,7 +1555,7 @@ Package epstopdf Info: Source file: <BIC.eps>
 C.eps>
 (epstopdf)             \includegraphics on input line 1088.
 Package epstopdf Info: Output file is already uptodate.
-<BIC-eps-converted-to.pdf, id=897, 258.9675pt x 161.60374pt>
+<BIC-eps-converted-to.pdf, id=907, 258.9675pt x 161.60374pt>
 File: BIC-eps-converted-to.pdf Graphic file (type pdf)
 <use BIC-eps-converted-to.pdf>
 Package pdftex.def Info: BIC-eps-converted-to.pdf  used on input line 1088.
@@ -1574,7 +1574,7 @@ Package epstopdf Info: Source file: <Potential.eps>
 pdf Potential.eps>
 (epstopdf)             \includegraphics on input line 1099.
 Package epstopdf Info: Output file is already uptodate.
-<Potential-eps-converted-to.pdf, id=898, 359.3425pt x 225.84375pt>
+<Potential-eps-converted-to.pdf, id=908, 359.3425pt x 225.84375pt>
 File: Potential-eps-converted-to.pdf Graphic file (type pdf)
 <use Potential-eps-converted-to.pdf>
 Package pdftex.def Info: Potential-eps-converted-to.pdf  used on input line 109
@@ -1591,7 +1591,7 @@ df>
 -converted-to.pdf Potential_discontinuity.eps>
 (epstopdf)             \includegraphics on input line 1104.
 Package epstopdf Info: Output file is already uptodate.
-<Potential_discontinuity-eps-converted-to.pdf, id=899, 359.3425pt x 226.8475pt>
+<Potential_discontinuity-eps-converted-to.pdf, id=909, 359.3425pt x 226.8475pt>
 
 File: Potential_discontinuity-eps-converted-to.pdf Graphic file (type pdf)
 <use Potential_discontinuity-eps-converted-to.pdf>
@@ -1601,7 +1601,7 @@ input line 1104.
 
 LaTeX Warning: Reference `' on page 55 undefined on input line 1108.
 
-<CFOATD.png, id=900, 361.35pt x 231.86626pt>
+<CFOATD.png, id=910, 361.35pt x 231.86626pt>
 File: CFOATD.png Graphic file (type png)
 <use CFOATD.png>
 Package pdftex.def Info: CFOATD.png  used on input line 1114.
@@ -1616,7 +1616,7 @@ Package epstopdf Info: Source file: <SROATD.eps>
  SROATD.eps>
 (epstopdf)             \includegraphics on input line 1119.
 Package epstopdf Info: Output file is already uptodate.
-<SROATD-eps-converted-to.pdf, id=901, 361.35pt x 205.76875pt>
+<SROATD-eps-converted-to.pdf, id=911, 361.35pt x 205.76875pt>
 File: SROATD-eps-converted-to.pdf Graphic file (type pdf)
 <use SROATD-eps-converted-to.pdf>
 Package pdftex.def Info: SROATD-eps-converted-to.pdf  used on input line 1119.
@@ -1651,7 +1651,7 @@ Package epstopdf Info: Source file: <POATTDP.eps>
 f POATTDP.eps>
 (epstopdf)             \includegraphics on input line 1193.
 Package epstopdf Info: Output file is already uptodate.
-<POATTDP-eps-converted-to.pdf, id=979, 359.3425pt x 223.83624pt>
+<POATTDP-eps-converted-to.pdf, id=989, 359.3425pt x 223.83624pt>
 File: POATTDP-eps-converted-to.pdf Graphic file (type pdf)
 <use POATTDP-eps-converted-to.pdf>
 Package pdftex.def Info: POATTDP-eps-converted-to.pdf  used on input line 1193.
@@ -1667,7 +1667,7 @@ Package epstopdf Info: Source file: <BICTDPOAT.eps>
 pdf BICTDPOAT.eps>
 (epstopdf)             \includegraphics on input line 1198.
 Package epstopdf Info: Output file is already uptodate.
-<BICTDPOAT-eps-converted-to.pdf, id=980, 359.3425pt x 221.82875pt>
+<BICTDPOAT-eps-converted-to.pdf, id=990, 359.3425pt x 221.82875pt>
 File: BICTDPOAT-eps-converted-to.pdf Graphic file (type pdf)
 <use BICTDPOAT-eps-converted-to.pdf>
 Package pdftex.def Info: BICTDPOAT-eps-converted-to.pdf  used on input line 119
@@ -1683,7 +1683,7 @@ Package epstopdf Info: Source file: <CFOATDP.eps>
 f CFOATDP.eps>
 (epstopdf)             \includegraphics on input line 1203.
 Package epstopdf Info: Output file is already uptodate.
-<CFOATDP-eps-converted-to.pdf, id=981, 359.3425pt x 224.84pt>
+<CFOATDP-eps-converted-to.pdf, id=991, 359.3425pt x 224.84pt>
 File: CFOATDP-eps-converted-to.pdf Graphic file (type pdf)
 <use CFOATDP-eps-converted-to.pdf>
 Package pdftex.def Info: CFOATDP-eps-converted-to.pdf  used on input line 1203.
@@ -1699,7 +1699,7 @@ Package epstopdf Info: Source file: <SRDPOAT.eps>
 f SRDPOAT.eps>
 (epstopdf)             \includegraphics on input line 1208.
 Package epstopdf Info: Output file is already uptodate.
-<SRDPOAT-eps-converted-to.pdf, id=982, 361.35pt x 205.76875pt>
+<SRDPOAT-eps-converted-to.pdf, id=992, 361.35pt x 205.76875pt>
 File: SRDPOAT-eps-converted-to.pdf Graphic file (type pdf)
 <use SRDPOAT-eps-converted-to.pdf>
 Package pdftex.def Info: SRDPOAT-eps-converted-to.pdf  used on input line 1208.
@@ -1719,45 +1719,54 @@ LaTeX Info: Redefining \. on input line 115.
 LaTeX Info: Redefining \% on input line 115.
  [59 <./POATTDP-eps-converted-to.pdf> <./BICTDPOAT-eps-converted-to.pdf> <./CFO
 ATDP-eps-converted-to.pdf> <./SRDPOAT-eps-converted-to.pdf>]
-\openout2 = `conclu.aux'.
+\openout2 = `Resonancias.aux'.
 
- (conclu.tex
+
+(Resonancias.tex
 Cap\'{\i }tulo 5.
 ) [60
 
 
 
+]
+\openout2 = `conclu.aux'.
+
+ (conclu.tex
+Cap\'{\i }tulo 6.
+) [61
+
+
+
 ] (tesis.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
- [61
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+ [62
 
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (tesis.aux (titlepage.aux)
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
  (gracias.aux) (intro.aux)
-(TD.aux) (Potenciales_CA.aux) (Potenciales.aux) (conclu.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
+(TD.aux) (Potenciales_CA.aux) (Potenciales.aux) (Resonancias.aux) (conclu.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: F210CF2C6EE3F0F2BB6B8BB4855CEA13;2514.
-
+(rerunfilecheck)             Checksum: 08F7954308AC5EB957FDEC71766CA769;2654.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 10844 strings out of 480930
- 167229 string characters out of 2897884
- 457403 words of memory out of 3000000
- 26233 multiletter control sequences out of 15000+200000
+ 10860 strings out of 480930
+ 167569 string characters out of 2897884
+ 457918 words of memory out of 3000000
+ 26239 multiletter control sequences out of 15000+200000
  544578 words of font info for 70 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,14n,53p,975b,668s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1783,9 +1792,9 @@ sers/Leo Lopez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 blic/amsfonts/cm/cmti10.pfb><C:/Users/Leo Lopez/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Leo Lopez/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on tesis.pdf (61 pages, 883089 bytes).
+Output written on tesis.pdf (62 pages, 886245 bytes).
 PDF statistics:
- 1138 PDF objects out of 1200 (max. 8388607)
- 208 named destinations out of 1000 (max. 500000)
- 463 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1153 PDF objects out of 1200 (max. 8388607)
+ 211 named destinations out of 1000 (max. 500000)
+ 479 words of extra memory for PDF output out of 10000 (max. 10000000)
 
