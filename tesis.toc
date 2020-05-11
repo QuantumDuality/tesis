@@ -32,6 +32,7 @@
 \contentsline {subsection}{\numberline {4.4.3}Oscilador armónico truncado deformado}{53}{subsection.4.4.3}%
 \contentsline {section}{\numberline {4.5}Deformación parcial}{57}{section.4.5}%
 \contentsline {chapter}{\numberline {5}Resonancias en mecánica cuántica}{60}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Corrimiento de fase}{60}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{61}{chapter.6}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{62}{section*.24}%
+\contentsline {section}{\numberline {5.1}Ecuación de Schrödinger en coordenadas esféricas}{60}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Dispersión en mecánica cuántica en tres dimensiones}{62}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{63}{chapter.6}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{64}{section*.24}%
