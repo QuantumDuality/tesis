@@ -65,7 +65,7 @@ Donde el primer término en los corchetes representa la onda incidente, mientras
 Cuya solución general está dada por las funciones de Bessel esféricas
 
 \begin{equation*}
-\psi=A j_l(k r) + B n_l(kr), ~~~ k^2=E
+\psi=A_k j_l(k r) + B n_l(kr), ~~~ k^2=E
 \end{equation*}
 
 Donde la función $n_l$ es irregular en el origen, por lo que $B=0$. Por otro lado, la forma asintótica de $j_l$ es
@@ -77,5 +77,5 @@ j_l(k r) \approx \sqrt{\frac{2}{\pi k r}} \sin \left(kr-\frac{l \pi}{2} + \frac{
 Podemos entonces usar la splución completa que incluye la parte angular para escribir (\ref{FAD}) de la forma de una combinación lineal 
 
 \begin{equation*}
-\psi_\infty(r,\theta) = \sum_{\infty}^{l=0}
+\psi_\infty(r,\theta) = \sum_{\infty}^{l=0}{A_k A_{ml} P^m_l(\cos{\theta})}
 \end{equation*}
