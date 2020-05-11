@@ -1,0 +1,409 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     16790,        401]
+NotebookOptionsPosition[     16344,        382]
+NotebookOutlinePosition[     16692,        397]
+CellTagsIndexPosition[     16649,        394]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", 
+  RowBox[{"(*", 
+   RowBox[{"Estados", " ", "originales"}], "*)"}], "\[IndentingNewLine]", 
+  "\[IndentingNewLine]", 
+  RowBox[{"(*", "Par", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     RowBox[{"\[Psi]e", "[", 
+      RowBox[{"n_", ",", "x_"}], "]"}], " ", ":=", " ", 
+     RowBox[{
+      RowBox[{"Exp", "[", 
+       RowBox[{
+        RowBox[{"-", 
+         RowBox[{"x", "^", "2"}]}], "/", "2"}], "]"}], " ", 
+      RowBox[{"Hypergeometric1F1", "[", 
+       RowBox[{
+        RowBox[{"-", "n"}], ",", 
+        RowBox[{"1", "/", "2"}], ",", 
+        RowBox[{"x", "^", "2"}]}], "]"}]}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", "Impar", "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"\[Psi]o", "[", 
+      RowBox[{"n_", ",", "x_"}], "]"}], " ", ":=", " ", 
+     RowBox[{"x", " ", 
+      RowBox[{"Exp", "[", 
+       RowBox[{
+        RowBox[{"-", 
+         RowBox[{"x", "^", "2"}]}], "/", "2"}], "]"}], " ", 
+      RowBox[{"Hypergeometric1F1", "[", 
+       RowBox[{
+        RowBox[{"-", "n"}], ",", 
+        RowBox[{"3", "/", "2"}], ",", 
+        RowBox[{"x", "^", "2"}]}], "]"}]}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"Potencial", " ", "original"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"V0", "[", "x_", "]"}], ":=", 
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "/", "2"}]}], ";"}], "\[IndentingNewLine]", 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "funciones", " ", "para", " ", "calcular", " ", "el", " ", "nuevo", " ", 
+     "potencial"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"\[Sigma]", "[", 
+      RowBox[{"f_", ",", "g_", ",", "x_"}], "]"}], " ", ":=", " ", 
+     RowBox[{
+      RowBox[{"D", "[", 
+       RowBox[{
+        RowBox[{"Wronskian", "[", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{"f", ",", "g"}], "}"}], ",", "x"}], "]"}], ",", "x"}], 
+       "]"}], "/", 
+      RowBox[{"Wronskian", "[", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{"f", ",", "g"}], "}"}], ",", "x"}], "]"}]}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"d\[Sigma]", "[", 
+      RowBox[{"f_", ",", "g_", ",", "x_"}], "]"}], " ", ":=", " ", 
+     RowBox[{"D", "[", 
+      RowBox[{
+       RowBox[{"\[Sigma]", "[", 
+        RowBox[{"f", ",", "g", ",", "x"}], "]"}], ",", "x"}], "]"}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"V1", "[", 
+      RowBox[{"f_", ",", "g_", ",", "x_"}], "]"}], ":=", 
+     RowBox[{
+      RowBox[{"V0", "[", "x", "]"}], " ", "-", " ", 
+      RowBox[{"2", " ", 
+       RowBox[{"d\[Sigma]", "[", 
+        RowBox[{"f", ",", "g", ",", "x"}], "]"}]}]}]}], ";"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Potencial", " ", "dependiendo", " ", "de", " ", "las", " ", "funcines", 
+     " ", "semilla"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{"Animate", "[", 
+    RowBox[{
+     RowBox[{"Plot", "[", 
+      RowBox[{
+       RowBox[{"Evaluate", "[", 
+        RowBox[{"V1", "[", 
+         RowBox[{
+          RowBox[{"\[Psi]e", "[", 
+           RowBox[{"n", ",", "x"}], "]"}], ",", 
+          RowBox[{"\[Psi]o", "[", 
+           RowBox[{"n", ",", "x"}], "]"}], ",", "x"}], "]"}], "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"x", ",", 
+         RowBox[{"-", "5"}], ",", "5"}], "}"}]}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"n", ",", "0", ",", "5", ",", "1"}], "}"}]}], "]"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{"Nuevos", " ", "estados"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"\[Psi]1", "[", 
+      RowBox[{"f_", ",", "g_", ",", "h_", ",", "x_"}], "]"}], " ", ":=", " ", 
+     RowBox[{
+      RowBox[{"Wronskian", "[", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{"f", ",", "g", ",", "h"}], "}"}], ",", "x"}], "]"}], "/", 
+      " ", 
+      RowBox[{"Wronskian", "[", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{"f", ",", "g"}], "}"}], ",", "x"}], "]"}]}]}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Estado", " ", "base", " ", "dependiendo", " ", "de", " ", "las", " ", 
+     "funcines", " ", "semilla"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{"Animate", "[", 
+    RowBox[{
+     RowBox[{"Plot", "[", 
+      RowBox[{
+       RowBox[{"Evaluate", "[", 
+        RowBox[{"\[Psi]1", "[", 
+         RowBox[{
+          RowBox[{"\[Psi]e", "[", 
+           RowBox[{"n", ",", "x"}], "]"}], ",", 
+          RowBox[{"\[Psi]o", "[", 
+           RowBox[{"n", ",", "x"}], "]"}], ",", 
+          RowBox[{"\[Psi]e", "[", 
+           RowBox[{"0", ",", "x"}], "]"}], ",", "x"}], "]"}], "]"}], " ", ",", 
+       RowBox[{"{", 
+        RowBox[{"x", ",", 
+         RowBox[{"-", "5"}], ",", "5"}], "}"}]}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"n", ",", "0", ",", "5", ",", "1"}], "}"}]}], "]"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   RowBox[{"(*", 
+    RowBox[{
+    "Potencial", " ", "dependiendo", " ", "de", " ", "las", " ", "funcines", 
+     " ", "semilla", " ", "con", " ", "dos", " ", "estados", " ", "no", " ", 
+     "f\[IAcute]sicos"}], "*)"}], "\[IndentingNewLine]", 
+   RowBox[{"Animate", "[", 
+    RowBox[{
+     RowBox[{"Plot", "[", 
+      RowBox[{
+       RowBox[{"Evaluate", "[", 
+        RowBox[{"V1", "[", 
+         RowBox[{
+          RowBox[{"\[Psi]e", "[", 
+           RowBox[{
+            RowBox[{"-", "n"}], ",", "x"}], "]"}], ",", 
+          RowBox[{"\[Psi]o", "[", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"-", "n"}], "+", "2"}], ",", "x"}], "]"}], ",", "x"}], 
+         "]"}], "]"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"x", ",", 
+         RowBox[{"-", "5"}], ",", "5"}], "}"}]}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"n", ",", "1", ",", "5", ",", "1"}], "}"}]}], "]"}], 
+   "\[IndentingNewLine]", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+   "\[IndentingNewLine]"}]}]], "Input",
+ CellChangeTimes->{{3.7613554424237857`*^9, 3.7613556352268133`*^9}, {
+   3.761355702462659*^9, 3.7613561430558596`*^9}, {3.7613562784786053`*^9, 
+   3.761356293144444*^9}, {3.761356394230226*^9, 3.761356394376234*^9}, {
+   3.761356483142311*^9, 3.761356483430328*^9}, {3.7613567550288625`*^9, 
+   3.761357259371709*^9}, {3.761357370074041*^9, 3.7613573706910763`*^9}, {
+   3.761357401162819*^9, 3.76135740502404*^9}, {3.7613574472474546`*^9, 
+   3.7613574671925955`*^9}, {3.761357623205519*^9, 3.7613576492590094`*^9}, {
+   3.7613577021520348`*^9, 3.7613577022850423`*^9}, 3.7613577530969486`*^9, {
+   3.761358125405244*^9, 3.761358261461025*^9}, {3.7613582959659986`*^9, 
+   3.7613583248096485`*^9}, {3.7613594276997304`*^9, 
+   3.7613595477805986`*^9}, {3.761359675325894*^9, 3.7613596891856866`*^9}, {
+   3.7613597263478117`*^9, 3.761359735420331*^9}, {3.761359767956192*^9, 
+   3.76135976862223*^9}, {3.7613598099095917`*^9, 3.7613598137908134`*^9}, {
+   3.761361554460374*^9, 3.76136155526342*^9}, {3.761361591170474*^9, 
+   3.7613615930925837`*^9}, 3.7616156035840034`*^9, {3.7616156423072186`*^9, 
+   3.7616156819724874`*^9}, {3.761615869696224*^9, 3.7616158739064655`*^9}, {
+   3.7616159414073257`*^9, 3.7616159484207273`*^9}, {3.7616159786334553`*^9, 
+   3.761615979461502*^9}, {3.761616020199833*^9, 3.7616160223829575`*^9}, {
+   3.76161607592702*^9, 3.761616078754182*^9}}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`n$$ = 4, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"sin t\[IAcute]tulo\"", Typeset`specs$$ = {{
+      Hold[$CellContext`n$$], 0, 5, 1}}, Typeset`size$$ = {
+    360., {111., 117.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`n$2695177$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`n$$ = 0}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`n$$, $CellContext`n$2695177$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[
+        Evaluate[
+         $CellContext`V1[
+          $CellContext`\[Psi]e[$CellContext`n$$, $CellContext`x], 
+          $CellContext`\[Psi]o[$CellContext`n$$, $CellContext`x], \
+$CellContext`x]], {$CellContext`x, -5, 5}], 
+      "Specifications" :> {{$CellContext`n$$, 0, 5, 1, 
+         AppearanceElements -> {
+          "ProgressSlider", "PlayPauseButton", "FasterSlowerButtons", 
+           "DirectionButton"}}}, 
+      "Options" :> {
+       ControlType -> Animator, AppearanceElements -> None, DefaultBaseStyle -> 
+        "Animate", DefaultLabelStyle -> "AnimateLabel", SynchronousUpdating -> 
+        True, ShrinkingDelay -> 10.}, "DefaultOptions" :> {}],
+     ImageSizeCache->{411., {150., 157.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Animate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{
+  3.7613572601857557`*^9, 3.76135737372525*^9, 3.7613574085902443`*^9, {
+   3.7613574532818003`*^9, 3.761357469831747*^9}, 3.7613576362132635`*^9, 
+   3.76135766675001*^9, 3.7613577048061867`*^9, 3.7613577557360992`*^9, {
+   3.761358186588743*^9, 3.7613582255699725`*^9}, 3.7613595586392193`*^9, 
+   3.761359693009905*^9, 3.7613597385075073`*^9, 3.7613597709633636`*^9, 
+   3.7613598176320333`*^9, 3.761361559372655*^9, 3.761361596033752*^9, 
+   3.761615647633523*^9, 3.7616156848096495`*^9, 3.7616158770586452`*^9, {
+   3.761615953823036*^9, 3.761615981828638*^9}, 3.7616160280522814`*^9, 
+   3.7616160872646685`*^9}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`n$$ = 5, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"sin t\[IAcute]tulo\"", Typeset`specs$$ = {{
+      Hold[$CellContext`n$$], 0, 5, 1}}, Typeset`size$$ = {
+    360., {111., 117.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`n$2695198$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`n$$ = 0}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`n$$, $CellContext`n$2695198$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[
+        Evaluate[
+         $CellContext`\[Psi]1[
+          $CellContext`\[Psi]e[$CellContext`n$$, $CellContext`x], 
+          $CellContext`\[Psi]o[$CellContext`n$$, $CellContext`x], 
+          $CellContext`\[Psi]e[
+          0, $CellContext`x], $CellContext`x]], {$CellContext`x, -5, 5}], 
+      "Specifications" :> {{$CellContext`n$$, 0, 5, 1, 
+         AppearanceElements -> {
+          "ProgressSlider", "PlayPauseButton", "FasterSlowerButtons", 
+           "DirectionButton"}}}, 
+      "Options" :> {
+       ControlType -> Animator, AppearanceElements -> None, DefaultBaseStyle -> 
+        "Animate", DefaultLabelStyle -> "AnimateLabel", SynchronousUpdating -> 
+        True, ShrinkingDelay -> 10.}, "DefaultOptions" :> {}],
+     ImageSizeCache->{411., {149., 156.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Animate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{
+  3.7613572601857557`*^9, 3.76135737372525*^9, 3.7613574085902443`*^9, {
+   3.7613574532818003`*^9, 3.761357469831747*^9}, 3.7613576362132635`*^9, 
+   3.76135766675001*^9, 3.7613577048061867`*^9, 3.7613577557360992`*^9, {
+   3.761358186588743*^9, 3.7613582255699725`*^9}, 3.7613595586392193`*^9, 
+   3.761359693009905*^9, 3.7613597385075073`*^9, 3.7613597709633636`*^9, 
+   3.7613598176320333`*^9, 3.761361559372655*^9, 3.761361596033752*^9, 
+   3.761615647633523*^9, 3.7616156848096495`*^9, 3.7616158770586452`*^9, {
+   3.761615953823036*^9, 3.761615981828638*^9}, 3.7616160280522814`*^9, 
+   3.761616087327672*^9}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`n$$ = 5, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"sin t\[IAcute]tulo\"", Typeset`specs$$ = {{
+      Hold[$CellContext`n$$], 1, 5, 1}}, Typeset`size$$ = {
+    360., {110., 116.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`n$2695276$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`n$$ = 1}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`n$$, $CellContext`n$2695276$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[
+        Evaluate[
+         $CellContext`V1[
+          $CellContext`\[Psi]e[-$CellContext`n$$, $CellContext`x], 
+          $CellContext`\[Psi]o[-$CellContext`n$$ + 
+           2, $CellContext`x], $CellContext`x]], {$CellContext`x, -5, 5}], 
+      "Specifications" :> {{$CellContext`n$$, 1, 5, 1, 
+         AppearanceElements -> {
+          "ProgressSlider", "PlayPauseButton", "FasterSlowerButtons", 
+           "DirectionButton"}}}, 
+      "Options" :> {
+       ControlType -> Animator, AppearanceElements -> None, DefaultBaseStyle -> 
+        "Animate", DefaultLabelStyle -> "AnimateLabel", SynchronousUpdating -> 
+        True, ShrinkingDelay -> 10.}, "DefaultOptions" :> {}],
+     ImageSizeCache->{411., {148., 155.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Animate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{
+  3.7613572601857557`*^9, 3.76135737372525*^9, 3.7613574085902443`*^9, {
+   3.7613574532818003`*^9, 3.761357469831747*^9}, 3.7613576362132635`*^9, 
+   3.76135766675001*^9, 3.7613577048061867`*^9, 3.7613577557360992`*^9, {
+   3.761358186588743*^9, 3.7613582255699725`*^9}, 3.7613595586392193`*^9, 
+   3.761359693009905*^9, 3.7613597385075073`*^9, 3.7613597709633636`*^9, 
+   3.7613598176320333`*^9, 3.761361559372655*^9, 3.761361596033752*^9, 
+   3.761615647633523*^9, 3.7616156848096495`*^9, 3.7616158770586452`*^9, {
+   3.761615953823036*^9, 3.761615981828638*^9}, 3.7616160280522814`*^9, 
+   3.7616160873906755`*^9}]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.761355632879679*^9, 3.761355632882679*^9}}]
+},
+WindowSize->{1350, 710},
+WindowMargins->{{-8, Automatic}, {Automatic, 0}},
+FrontEndVersion->"11.0 para Microsoft Windows (64-bit) (September 21, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 7461, 191, 726, "Input"],
+Cell[8044, 215, 2701, 52, 324, "Output"],
+Cell[10748, 269, 2765, 53, 322, "Output"],
+Cell[13516, 324, 2717, 52, 353, "Output"]
+}, Open  ]],
+Cell[16248, 379, 92, 1, 30, "Input"]
+}
+]
+*)
+
